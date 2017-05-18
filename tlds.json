@@ -1,0 +1,4556 @@
+{
+  ".com": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/com",
+    "whoisPrivacy": true,
+    "price": "$0.99"
+  },
+  ".xyz": {
+    "registarName": "Namecheap",
+    "registarUrl": "/go/namecheap/xyz",
+    "whoisPrivacy": true,
+    "price": "$0.88"
+  },
+  ".net": {
+    "registarName": "BigRock",
+    "registarUrl": "/go/bigrock/net",
+    "whoisPrivacy": true,
+    "price": "$7.99"
+  },
+  ".top": {
+    "registarName": "AlpNames",
+    "registarUrl": "/go/alpnames/top",
+    "whoisPrivacy": true,
+    "price": "$0.40"
+  },
+  ".org": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/org",
+    "whoisPrivacy": true,
+    "price": "$2.99"
+  },
+  ".info": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/info",
+    "whoisPrivacy": true,
+    "price": "$0.99"
+  },
+  ".co": {
+    "registarName": "Name.com",
+    "registarUrl": "/go/name.com/co",
+    "whoisPrivacy": true,
+    "price": "$6.99"
+  },
+  ".work": {
+    "registarName": "Network Solutions",
+    "registarUrl": "/go/networksolutions/work",
+    "whoisPrivacy": true,
+    "price": "$1.99"
+  },
+  ".pw": {
+    "registarName": "Namecheap",
+    "registarUrl": "/go/namecheap/pw",
+    "whoisPrivacy": true,
+    "price": "$0.88"
+  },
+  ".io": {
+    "registarName": "Namecheap",
+    "registarUrl": "/go/namecheap/io",
+    "whoisPrivacy": true,
+    "price": "$32.88"
+  },
+  ".in": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/in",
+    "whoisPrivacy": true,
+    "price": "$0.99"
+  },
+  ".me": {
+    "registarName": "BigRock",
+    "registarUrl": "/go/bigrock/me",
+    "whoisPrivacy": true,
+    "price": "$4.49"
+  },
+  ".space": {
+    "registarName": "Namecheap",
+    "registarUrl": "/go/namecheap/space",
+    "whoisPrivacy": true,
+    "price": "$0.88"
+  },
+  ".science": {
+    "registarName": "AlpNames",
+    "registarUrl": "/go/alpnames/science",
+    "whoisPrivacy": true,
+    "price": "$0.66"
+  },
+  ".us": {
+    "registarName": "Namecheap",
+    "registarUrl": "/go/namecheap/us",
+    "whoisPrivacy": false,
+    "price": "$0.88"
+  },
+  ".eu": {
+    "registarName": "AlpNames",
+    "registarUrl": "/go/alpnames/eu",
+    "whoisPrivacy": false,
+    "price": "$3.84"
+  },
+  ".ninjaTLDLIST": {
+    "registarName": "AlpNames",
+    "registarUrl": "/go/alpnames/ninja",
+    "whoisPrivacy": true,
+    "price": "$12.99"
+  },
+  ".club": {
+    "registarName": "GoDaddy",
+    "registarUrl": "/go/godaddy/club",
+    "whoisPrivacy": true,
+    "price": "$0.99"
+  },
+  ".online": {
+    "registarName": "Namecheap",
+    "registarUrl": "/go/namecheap/online",
+    "whoisPrivacy": true,
+    "price": "$0.88"
+  },
+  ".website": {
+    "registarName": "Namecheap",
+    "registarUrl": "/go/namecheap/website",
+    "whoisPrivacy": true,
+    "price": "$0.88"
+  },
+  ".asia": {
+    "registarName": "GoDaddy",
+    "registarUrl": "/go/godaddy/asia",
+    "whoisPrivacy": true,
+    "price": "$3.99"
+  },
+  ".win": {
+    "registarName": "AlpNames",
+    "registarUrl": "/go/alpnames/win",
+    "whoisPrivacy": true,
+    "price": "$0.66"
+  },
+  ".tv": {
+    "registarName": "Domainmonster",
+    "registarUrl": "/go/domainmonster/tv",
+    "whoisPrivacy": true,
+    "price": "$22.99"
+  },
+  ".ccTLDLIST": {
+    "registarName": "NameSilo",
+    "registarUrl": "/go/namesilo/cc",
+    "whoisPrivacy": true,
+    "price": "$8.99"
+  },
+  ".tech": {
+    "registarName": "Namecheap",
+    "registarUrl": "/go/namecheap/tech",
+    "whoisPrivacy": true,
+    "price": "$0.88"
+  },
+  ".biz": {
+    "registarName": "AmenWorld",
+    "registarUrl": "/go/amenworld/biz",
+    "whoisPrivacy": true,
+    "price": "$5.14"
+  },
+  ".it": {
+    "registarName": "Espace 2001",
+    "registarUrl": "/go/espace2001/it",
+    "whoisPrivacy": true,
+    "price": "$5.77"
+  },
+  ".party": {
+    "registarName": "AlpNames",
+    "registarUrl": "/go/alpnames/party",
+    "whoisPrivacy": true,
+    "price": "$0.85"
+  },
+  ".pro": {
+    "registarName": "AlpNames",
+    "registarUrl": "/go/alpnames/pro",
+    "whoisPrivacy": true,
+    "price": "$1.29"
+  },
+  ".gg": {
+    "registarName": "101domain",
+    "registarUrl": "/go/101domain/gg",
+    "whoisPrivacy": true,
+    "price": "$49.00"
+  },
+  ".one": {
+    "registarName": "Uniregistry",
+    "registarUrl": "/go/uniregistry/one",
+    "whoisPrivacy": true,
+    "price": "$5.88"
+  },
+  ".link": {
+    "registarName": "AlpNames",
+    "registarUrl": "/go/alpnames/link",
+    "whoisPrivacy": true,
+    "price": "$1.99"
+  },
+  ".ws": {
+    "registarName": "Directnic",
+    "registarUrl": "/go/directnic/ws",
+    "whoisPrivacy": true,
+    "price": "$5.99"
+  },
+  ".ai": {
+    "registarName": "Marcaria.com",
+    "registarUrl": "/go/marcaria/ai",
+    "whoisPrivacy": false,
+    "price": "$71.00"
+  },
+  ".casa": {
+    "registarName": "Porkbun",
+    "registarUrl": "/go/porkbun/casa",
+    "whoisPrivacy": true,
+    "price": "$5.95"
+  },
+  ".site": {
+    "registarName": "Namecheap",
+    "registarUrl": "/go/namecheap/site",
+    "whoisPrivacy": true,
+    "price": "$0.88"
+  },
+  ".cricket": {
+    "registarName": "AlpNames",
+    "registarUrl": "/go/alpnames/cricket",
+    "whoisPrivacy": true,
+    "price": "$0.85"
+  },
+  ".click": {
+    "registarName": "AlpNames",
+    "registarUrl": "/go/alpnames/click",
+    "whoisPrivacy": true,
+    "price": "$1.99"
+  },
+  ".sh": {
+    "registarName": "Hexonet",
+    "registarUrl": "/go/hexonet/sh",
+    "whoisPrivacy": true,
+    "price": "$39.30"
+  },
+  ".designDIMSUM": {
+    "registarName": "Namecheap",
+    "registarUrl": "/go/namecheap/design",
+    "whoisPrivacy": true,
+    "price": "$6.88"
+  },
+  ".xxx": {
+    "registarName": "Marcaria.com",
+    "registarUrl": "/go/marcaria/xxx",
+    "whoisPrivacy": true,
+    "price": "$9.00"
+  },
+  ".uk": {
+    "registarName": "Espace 2001",
+    "registarUrl": "/go/espace2001/uk",
+    "whoisPrivacy": true,
+    "price": "$6.29"
+  },
+  ".lol": {
+    "registarName": "AlpNames",
+    "registarUrl": "/go/alpnames/lol",
+    "whoisPrivacy": true,
+    "price": "$2.89"
+  },
+  ".be": {
+    "registarName": "Espace 2001",
+    "registarUrl": "/go/espace2001/be",
+    "whoisPrivacy": false,
+    "price": "$5.58"
+  },
+  ".im": {
+    "registarName": "Domainmonster",
+    "registarUrl": "/go/domainmonster/im",
+    "whoisPrivacy": true,
+    "price": "$8.99"
+  },
+  ".ru": {
+    "registarName": "AmenWorld",
+    "registarUrl": "/go/amenworld/ru",
+    "whoisPrivacy": false,
+    "price": "$4.83"
+  },
+  ".es": {
+    "registarName": "Espace 2001",
+    "registarUrl": "/go/espace2001/es",
+    "whoisPrivacy": true,
+    "price": "$5.15"
+  },
+  ".de": {
+    "registarName": "Espace 2001",
+    "registarUrl": "/go/espace2001/de",
+    "whoisPrivacy": true,
+    "price": "$4.58"
+  },
+  ".rocks": {
+    "registarName": "AlpNames",
+    "registarUrl": "/go/alpnames/rocks",
+    "whoisPrivacy": true,
+    "price": "$4.99"
+  },
+  ".li": {
+    "registarName": "Hexonet",
+    "registarUrl": "/go/hexonet/li",
+    "whoisPrivacy": true,
+    "price": "$13.74"
+  },
+  ".al": {
+    "registarName": "ISTanCo",
+    "registarUrl": "/go/istanco/al",
+    "whoisPrivacy": true,
+    "price": "$14.26"
+  },
+  ".bid": {
+    "registarName": "AlpNames",
+    "registarUrl": "/go/alpnames/bid",
+    "whoisPrivacy": true,
+    "price": "$0.66"
+  },
+  ".cloud": {
+    "registarName": "Name.com",
+    "registarUrl": "/go/name.com/cloud",
+    "whoisPrivacy": true,
+    "price": "$6.99"
+  },
+  ".la": {
+    "registarName": "Dynadot",
+    "registarUrl": "/go/dynadot/la",
+    "whoisPrivacy": true,
+    "price": "$24.99"
+  },
+  ".ooo": {
+    "registarName": "AlpNames",
+    "registarUrl": "/go/alpnames/ooo",
+    "whoisPrivacy": true,
+    "price": "$23.99"
+  },
+  ".ca": {
+    "registarName": "Espace 2001",
+    "registarUrl": "/go/espace2001/ca",
+    "whoisPrivacy": true,
+    "price": "$7.87"
+  },
+  ".email": {
+    "registarName": "Espace 2001",
+    "registarUrl": "/go/espace2001/email",
+    "whoisPrivacy": true,
+    "price": "$14.75"
+  },
+  ".webcam": {
+    "registarName": "AlpNames",
+    "registarUrl": "/go/alpnames/webcam",
+    "whoisPrivacy": true,
+    "price": "$0.85"
+  },
+  ".ch": {
+    "registarName": "Netim",
+    "registarUrl": "/go/netim/ch",
+    "whoisPrivacy": true,
+    "price": "$9.50"
+  },
+  ".review": {
+    "registarName": "AlpNames",
+    "registarUrl": "/go/alpnames/review",
+    "whoisPrivacy": true,
+    "price": "$0.85"
+  },
+  ".domains": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/domains",
+    "whoisPrivacy": true,
+    "price": "$19.99"
+  },
+  ".se": {
+    "registarName": "101domain",
+    "registarUrl": "/go/101domain/se",
+    "whoisPrivacy": false,
+    "price": "$3.99"
+  },
+  ".cn": {
+    "registarName": "AmenWorld",
+    "registarUrl": "/go/amenworld/cn",
+    "whoisPrivacy": true,
+    "price": "$4.62"
+  },
+  ".re": {
+    "registarName": "Internet.bs",
+    "registarUrl": "/go/internet.bs/re",
+    "whoisPrivacy": true,
+    "price": "$6.90"
+  },
+  ".academy": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/academy",
+    "whoisPrivacy": true,
+    "price": "$19.99"
+  },
+  ".red": {
+    "registarName": "AlpNames",
+    "registarUrl": "/go/alpnames/red",
+    "whoisPrivacy": true,
+    "price": "$2.59"
+  },
+  ".guru": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/guru",
+    "whoisPrivacy": true,
+    "price": "$19.99"
+  },
+  ".download": {
+    "registarName": "AlpNames",
+    "registarUrl": "/go/alpnames/download",
+    "whoisPrivacy": true,
+    "price": "$0.85"
+  },
+  ".nyc": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/nyc",
+    "whoisPrivacy": true,
+    "price": "$19.99"
+  },
+  ".wtf": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/wtf",
+    "whoisPrivacy": true,
+    "price": "$19.99"
+  },
+  ".network": {
+    "registarName": "Espace 2001",
+    "registarUrl": "/go/espace2001/network",
+    "whoisPrivacy": true,
+    "price": "$14.75"
+  },
+  ".tk": {
+    "registarName": "Hexonet",
+    "registarUrl": "/go/hexonet/tk",
+    "whoisPrivacy": true,
+    "price": "$7.11"
+  },
+  ".mx": {
+    "registarName": "Gandi.net",
+    "registarUrl": "/go/gandi/mx",
+    "whoisPrivacy": true,
+    "price": "$24.00"
+  },
+  ".to": {
+    "registarName": "Netim",
+    "registarUrl": "/go/netim/to",
+    "whoisPrivacy": false,
+    "price": "$54.50"
+  },
+  ".moe": {
+    "registarName": "Espace 2001",
+    "registarUrl": "/go/espace2001/moe",
+    "whoisPrivacy": true,
+    "price": "$14.66"
+  },
+  ".ac": {
+    "registarName": "Hexonet",
+    "registarUrl": "/go/hexonet/ac",
+    "whoisPrivacy": true,
+    "price": "$39.30"
+  },
+  ".mobi": {
+    "registarName": "101domain",
+    "registarUrl": "/go/101domain/mobi",
+    "whoisPrivacy": true,
+    "price": "$2.75"
+  },
+  ".world": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/world",
+    "whoisPrivacy": true,
+    "price": "$19.99"
+  },
+  ".global": {
+    "registarName": "AmenWorld",
+    "registarUrl": "/go/amenworld/global",
+    "whoisPrivacy": true,
+    "price": "$15.04"
+  },
+  ".date": {
+    "registarName": "AlpNames",
+    "registarUrl": "/go/alpnames/date",
+    "whoisPrivacy": true,
+    "price": "$0.85"
+  },
+  ".pe": {
+    "registarName": "Marcaria.com",
+    "registarUrl": "/go/marcaria/pe",
+    "whoisPrivacy": true,
+    "price": "$39.00"
+  },
+  ".life": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/life",
+    "whoisPrivacy": true,
+    "price": "$19.99"
+  },
+  ".at": {
+    "registarName": "Espace 2001",
+    "registarUrl": "/go/espace2001/at",
+    "whoisPrivacy": true,
+    "price": "$13.85"
+  },
+  ".zone": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/zone",
+    "whoisPrivacy": true,
+    "price": "$19.99"
+  },
+  ".rs": {
+    "registarName": "ISTanCo",
+    "registarUrl": "/go/istanco/rs",
+    "whoisPrivacy": false,
+    "price": "$27.39"
+  },
+  ".bz": {
+    "registarName": "Netfirms",
+    "registarUrl": "/go/netfirms/bz",
+    "whoisPrivacy": true,
+    "price": "$16.95"
+  },
+  ".solutions": {
+    "registarName": "Espace 2001",
+    "registarUrl": "/go/espace2001/solutions",
+    "whoisPrivacy": true,
+    "price": "$14.75"
+  },
+  ".inkDIMSUMDIMSUM": {
+    "registarName": "Porkbun",
+    "registarUrl": "/go/porkbun/ink",
+    "whoisPrivacy": true,
+    "price": "$16.93"
+  },
+  ".family": {
+    "registarName": "Gandi.net",
+    "registarUrl": "/go/gandi/family",
+    "whoisPrivacy": true,
+    "price": "$8.00"
+  },
+  ".host": {
+    "registarName": "GoDaddy",
+    "registarUrl": "/go/godaddy/host",
+    "whoisPrivacy": true,
+    "price": "$6.99"
+  },
+  ".uno": {
+    "registarName": "Marcaria.com",
+    "registarUrl": "/go/marcaria/uno",
+    "whoisPrivacy": true,
+    "price": "$14.00"
+  },
+  ".media": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/media",
+    "whoisPrivacy": true,
+    "price": "$19.99"
+  },
+  ".today": {
+    "registarName": "AlpNames",
+    "registarUrl": "/go/alpnames/today",
+    "whoisPrivacy": true,
+    "price": "$14.49"
+  },
+  ".fr": {
+    "registarName": "Internet.bs",
+    "registarUrl": "/go/internet.bs/fr",
+    "whoisPrivacy": true,
+    "price": "$6.79"
+  },
+  ".social": {
+    "registarName": "Uniregistry",
+    "registarUrl": "/go/uniregistry/social",
+    "whoisPrivacy": true,
+    "price": "$11.88"
+  },
+  ".news": {
+    "registarName": "Dynadot",
+    "registarUrl": "/go/dynadot/news",
+    "whoisPrivacy": true,
+    "price": "$6.99"
+  },
+  ".wang": {
+    "registarName": "AlpNames",
+    "registarUrl": "/go/alpnames/wang",
+    "whoisPrivacy": true,
+    "price": "$7.99"
+  },
+  ".live": {
+    "registarName": "Dynadot",
+    "registarUrl": "/go/dynadot/live",
+    "whoisPrivacy": true,
+    "price": "$8.99"
+  },
+  ".college": {
+    "registarName": "Namecheap",
+    "registarUrl": "/go/namecheap/college",
+    "whoisPrivacy": true,
+    "price": "$8.88"
+  },
+  ".cm": {
+    "registarName": "Hexonet",
+    "registarUrl": "/go/hexonet/cm",
+    "whoisPrivacy": true,
+    "price": "$74.44"
+  },
+  ".cat": {
+    "registarName": "Espace 2001",
+    "registarUrl": "/go/espace2001/cat",
+    "whoisPrivacy": true,
+    "price": "$12.86"
+  },
+  ".is": {
+    "registarName": "ISTanCo",
+    "registarUrl": "/go/istanco/is",
+    "whoisPrivacy": false,
+    "price": "$46.40"
+  },
+  ".ee": {
+    "registarName": "Netim",
+    "registarUrl": "/go/netim/ee",
+    "whoisPrivacy": false,
+    "price": "$18.50"
+  },
+  ".expert": {
+    "registarName": "AlpNames",
+    "registarUrl": "/go/alpnames/expert",
+    "whoisPrivacy": true,
+    "price": "$34.99"
+  },
+  ".guide": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/guide",
+    "whoisPrivacy": true,
+    "price": "$19.99"
+  },
+  ".bio": {
+    "registarName": "Espace 2001",
+    "registarUrl": "/go/espace2001/bio",
+    "whoisPrivacy": true,
+    "price": "$48.36"
+  },
+  ".sexy": {
+    "registarName": "AlpNames",
+    "registarUrl": "/go/alpnames/sexy",
+    "whoisPrivacy": true,
+    "price": "$14.89"
+  },
+  ".nu": {
+    "registarName": "101domain",
+    "registarUrl": "/go/101domain/nu",
+    "whoisPrivacy": false,
+    "price": "$3.99"
+  },
+  ".city": {
+    "registarName": "Espace 2001",
+    "registarUrl": "/go/espace2001/city",
+    "whoisPrivacy": true,
+    "price": "$14.75"
+  },
+  ".events": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/events",
+    "whoisPrivacy": true,
+    "price": "$19.99"
+  },
+  ".name": {
+    "registarName": "Espace 2001",
+    "registarUrl": "/go/espace2001/name",
+    "whoisPrivacy": true,
+    "price": "$8.36"
+  },
+  ".faith": {
+    "registarName": "AlpNames",
+    "registarUrl": "/go/alpnames/faith",
+    "whoisPrivacy": true,
+    "price": "$0.66"
+  },
+  ".agency": {
+    "registarName": "Espace 2001",
+    "registarUrl": "/go/espace2001/agency",
+    "whoisPrivacy": true,
+    "price": "$14.75"
+  },
+  ".trade": {
+    "registarName": "AlpNames",
+    "registarUrl": "/go/alpnames/trade",
+    "whoisPrivacy": true,
+    "price": "$0.85"
+  },
+  ".help": {
+    "registarName": "Espace 2001",
+    "registarUrl": "/go/espace2001/help",
+    "whoisPrivacy": true,
+    "price": "$14.75"
+  },
+  ".nl": {
+    "registarName": "Espace 2001",
+    "registarUrl": "/go/espace2001/nl",
+    "whoisPrivacy": true,
+    "price": "$5.87"
+  },
+  ".blue": {
+    "registarName": "101domain",
+    "registarUrl": "/go/101domain/blue",
+    "whoisPrivacy": true,
+    "price": "$2.75"
+  },
+  ".market": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/market",
+    "whoisPrivacy": true,
+    "price": "$19.99"
+  },
+  ".beer": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/beer",
+    "whoisPrivacy": true,
+    "price": "$19.99"
+  },
+  ".pm": {
+    "registarName": "Internet.bs",
+    "registarUrl": "/go/internet.bs/pm",
+    "whoisPrivacy": false,
+    "price": "$6.79"
+  },
+  ".press": {
+    "registarName": "Namecheap",
+    "registarUrl": "/go/namecheap/press",
+    "whoisPrivacy": true,
+    "price": "$0.88"
+  },
+  ".ad": {
+    "registarName": "Regtons",
+    "registarUrl": "/go/regtons/ad",
+    "whoisPrivacy": false,
+    "price": "$139.69"
+  },
+  ".so": {
+    "registarName": "Name.com",
+    "registarUrl": "/go/name.com/so",
+    "whoisPrivacy": true,
+    "price": "$14.49"
+  },
+  ".ly": {
+    "registarName": "Netim",
+    "registarUrl": "/go/netim/ly",
+    "whoisPrivacy": false,
+    "price": "$81.50"
+  },
+  ".money": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/money",
+    "whoisPrivacy": true,
+    "price": "$19.99"
+  },
+  ".wikiDIMSUMDIMSUM": {
+    "registarName": "Porkbun",
+    "registarUrl": "/go/porkbun/wiki",
+    "whoisPrivacy": true,
+    "price": "$16.93"
+  },
+  ".kim": {
+    "registarName": "AlpNames",
+    "registarUrl": "/go/alpnames/kim",
+    "whoisPrivacy": true,
+    "price": "$2.59"
+  },
+  ".no": {
+    "registarName": "Hexonet",
+    "registarUrl": "/go/hexonet/no",
+    "whoisPrivacy": false,
+    "price": "$13.37"
+  },
+  ".ba": {
+    "registarName": "Espace 2001",
+    "registarUrl": "/go/espace2001/ba",
+    "whoisPrivacy": false,
+    "price": "$97.73"
+  },
+  ".wedding": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/wedding",
+    "whoisPrivacy": true,
+    "price": "$19.99"
+  },
+  ".sex": {
+    "registarName": "Marcaria.com",
+    "registarUrl": "/go/marcaria/sex",
+    "whoisPrivacy": true,
+    "price": "$9.00"
+  },
+  ".ae": {
+    "registarName": "Marcaria.com",
+    "registarUrl": "/go/marcaria/ae",
+    "whoisPrivacy": false,
+    "price": "$39.00"
+  },
+  ".fm": {
+    "registarName": "Espace 2001",
+    "registarUrl": "/go/espace2001/fm",
+    "whoisPrivacy": true,
+    "price": "$74.00"
+  },
+  ".chat": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/chat",
+    "whoisPrivacy": true,
+    "price": "$19.99"
+  },
+  ".ky": {
+    "registarName": "Uniregistry",
+    "registarUrl": "/go/uniregistry/ky",
+    "whoisPrivacy": true,
+    "price": "$39.88"
+  },
+  ".世界": {
+    "registarName": "Hexonet",
+    "registarUrl": "/go/hexonet/世界",
+    "whoisPrivacy": true,
+    "price": "$6.90"
+  },
+  ".gl": {
+    "registarName": "Hexonet",
+    "registarUrl": "/go/hexonet/gl",
+    "whoisPrivacy": false,
+    "price": "$37.91"
+  },
+  ".care": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/care",
+    "whoisPrivacy": true,
+    "price": "$19.99"
+  },
+  ".works": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/works",
+    "whoisPrivacy": true,
+    "price": "$19.99"
+  },
+  ".black": {
+    "registarName": "101domain",
+    "registarUrl": "/go/101domain/black",
+    "whoisPrivacy": true,
+    "price": "$2.75"
+  },
+  ".af": {
+    "registarName": "ISTanCo",
+    "registarUrl": "/go/istanco/af",
+    "whoisPrivacy": false,
+    "price": "$69.72"
+  },
+  ".ne": {
+    "registarName": "Espace 2001",
+    "registarUrl": "/go/espace2001/ne",
+    "whoisPrivacy": false,
+    "price": "$406.81"
+  },
+  ".dog": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/dog",
+    "whoisPrivacy": true,
+    "price": "$19.99"
+  },
+  ".gy": {
+    "registarName": "Espace 2001",
+    "registarUrl": "/go/espace2001/gy",
+    "whoisPrivacy": true,
+    "price": "$32.61"
+  },
+  ".vc": {
+    "registarName": "Espace 2001",
+    "registarUrl": "/go/espace2001/vc",
+    "whoisPrivacy": true,
+    "price": "$28.61"
+  },
+  ".love": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/love",
+    "whoisPrivacy": true,
+    "price": "$19.99"
+  },
+  ".bike": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/bike",
+    "whoisPrivacy": true,
+    "price": "$9.99"
+  },
+  ".vegas": {
+    "registarName": "GoDaddy",
+    "registarUrl": "/go/godaddy/vegas",
+    "whoisPrivacy": true,
+    "price": "$29.99"
+  },
+  ".cx": {
+    "registarName": "Dyn",
+    "registarUrl": "/go/dyn/cx",
+    "whoisPrivacy": true,
+    "price": "$30.00"
+  },
+  ".ng": {
+    "registarName": "Gandi.net",
+    "registarUrl": "/go/gandi/ng",
+    "whoisPrivacy": false,
+    "price": "$45.00"
+  },
+  ".pics": {
+    "registarName": "Domain.com",
+    "registarUrl": "/go/domain.com/pics",
+    "whoisPrivacy": true,
+    "price": "$9.99"
+  },
+  ".id": {
+    "registarName": "Netim",
+    "registarUrl": "/go/netim/id",
+    "whoisPrivacy": false,
+    "price": "$54.50"
+  },
+  ".ma": {
+    "registarName": "Netim",
+    "registarUrl": "/go/netim/ma",
+    "whoisPrivacy": false,
+    "price": "$41.00"
+  },
+  ".pl": {
+    "registarName": "Hexonet",
+    "registarUrl": "/go/hexonet/pl",
+    "whoisPrivacy": true,
+    "price": "$7.71"
+  },
+  ".bank": {
+    "registarName": "Internet.bs",
+    "registarUrl": "/go/internet.bs/bank",
+    "whoisPrivacy": false,
+    "price": "$800.00"
+  },
+  ".sucks": {
+    "registarName": "Uniregistry",
+    "registarUrl": "/go/uniregistry/sucks",
+    "whoisPrivacy": true,
+    "price": "$208.88"
+  },
+  ".ro": {
+    "registarName": "Marcaria.com",
+    "registarUrl": "/go/marcaria/ro",
+    "whoisPrivacy": false,
+    "price": "$46.00"
+  },
+  ".digital": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/digital",
+    "whoisPrivacy": true,
+    "price": "$19.99"
+  },
+  ".ht": {
+    "registarName": "Hexonet",
+    "registarUrl": "/go/hexonet/ht",
+    "whoisPrivacy": false,
+    "price": "$84.00"
+  },
+  ".watch": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/watch",
+    "whoisPrivacy": true,
+    "price": "$19.99"
+  },
+  ".photo": {
+    "registarName": "Crazy Domains",
+    "registarUrl": "/go/crazydomains/photo",
+    "whoisPrivacy": true,
+    "price": "$9.95"
+  },
+  ".pizza": {
+    "registarName": "Netfirms",
+    "registarUrl": "/go/netfirms/pizza",
+    "whoisPrivacy": true,
+    "price": "$31.99"
+  },
+  ".орг": {
+    "registarName": "Regtons",
+    "registarUrl": "/go/regtons/орг",
+    "whoisPrivacy": true,
+    "price": "$9.42"
+  },
+  ".plus": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/plus",
+    "whoisPrivacy": true,
+    "price": "$19.99"
+  },
+  ".center": {
+    "registarName": "Espace 2001",
+    "registarUrl": "/go/espace2001/center",
+    "whoisPrivacy": true,
+    "price": "$14.75"
+  },
+  ".energy": {
+    "registarName": "Porkbun",
+    "registarUrl": "/go/porkbun/energy",
+    "whoisPrivacy": true,
+    "price": "$69.57"
+  },
+  ".ag": {
+    "registarName": "Hexonet",
+    "registarUrl": "/go/hexonet/ag",
+    "whoisPrivacy": true,
+    "price": "$86.00"
+  },
+  ".company": {
+    "registarName": "Espace 2001",
+    "registarUrl": "/go/espace2001/company",
+    "whoisPrivacy": true,
+    "price": "$14.75"
+  },
+  ".fi": {
+    "registarName": "Espace 2001",
+    "registarUrl": "/go/espace2001/fi",
+    "whoisPrivacy": false,
+    "price": "$23.72"
+  },
+  ".je": {
+    "registarName": "101domain",
+    "registarUrl": "/go/101domain/je",
+    "whoisPrivacy": true,
+    "price": "$49.00"
+  },
+  ".do": {
+    "registarName": "Marcaria.com",
+    "registarUrl": "/go/marcaria/do",
+    "whoisPrivacy": false,
+    "price": "$74.00"
+  },
+  ".cafe": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/cafe",
+    "whoisPrivacy": true,
+    "price": "$19.99"
+  },
+  ".pub": {
+    "registarName": "Directnic",
+    "registarUrl": "/go/directnic/pub",
+    "whoisPrivacy": true,
+    "price": "$9.98"
+  },
+  ".men": {
+    "registarName": "Directnic",
+    "registarUrl": "/go/directnic/men",
+    "whoisPrivacy": true,
+    "price": "$2.99"
+  },
+  ".studio": {
+    "registarName": "Porkbun",
+    "registarUrl": "/go/porkbun/studio",
+    "whoisPrivacy": true,
+    "price": "$17.04"
+  },
+  ".yoga": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/yoga",
+    "whoisPrivacy": true,
+    "price": "$19.99"
+  },
+  ".aero": {
+    "registarName": "Netim",
+    "registarUrl": "/go/netim/aero",
+    "whoisPrivacy": false,
+    "price": "$48.00"
+  },
+  ".church": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/church",
+    "whoisPrivacy": true,
+    "price": "$19.99"
+  },
+  ".kr": {
+    "registarName": "GoDaddy",
+    "registarUrl": "/go/godaddy/kr",
+    "whoisPrivacy": false,
+    "price": "$21.99"
+  },
+  ".ms": {
+    "registarName": "Hexonet",
+    "registarUrl": "/go/hexonet/ms",
+    "whoisPrivacy": true,
+    "price": "$28.00"
+  },
+  ".direct": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/direct",
+    "whoisPrivacy": true,
+    "price": "$19.99"
+  },
+  ".jp": {
+    "registarName": "GoDaddy",
+    "registarUrl": "/go/godaddy/jp",
+    "whoisPrivacy": true,
+    "price": "$34.99"
+  },
+  ".sc": {
+    "registarName": "Espace 2001",
+    "registarUrl": "/go/espace2001/sc",
+    "whoisPrivacy": true,
+    "price": "$83.87"
+  },
+  ".am": {
+    "registarName": "ISTanCo",
+    "registarUrl": "/go/istanco/am",
+    "whoisPrivacy": true,
+    "price": "$40.52"
+  },
+  ".dance": {
+    "registarName": "Directnic",
+    "registarUrl": "/go/directnic/dance",
+    "whoisPrivacy": true,
+    "price": "$8.98"
+  },
+  ".au": {
+    "registarName": "Hover",
+    "registarUrl": "/go/hover/au",
+    "whoisPrivacy": false,
+    "price": "$19.99"
+  },
+  ".int": {
+    "registarName": "Marcaria.com",
+    "registarUrl": "/go/marcaria/int",
+    "whoisPrivacy": false,
+    "price": "$120.00"
+  },
+  ".land": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/land",
+    "whoisPrivacy": true,
+    "price": "$19.99"
+  },
+  ".st": {
+    "registarName": "Domain.com",
+    "registarUrl": "/go/domain.com/st",
+    "whoisPrivacy": false,
+    "price": "$49.99"
+  },
+  ".br": {
+    "registarName": "Marcaria.com",
+    "registarUrl": "/go/marcaria/br",
+    "whoisPrivacy": false,
+    "price": "$27.00"
+  },
+  ".hk": {
+    "registarName": "Espace 2001",
+    "registarUrl": "/go/espace2001/hk",
+    "whoisPrivacy": false,
+    "price": "$18.74"
+  },
+  ".coach": {
+    "registarName": "AlpNames",
+    "registarUrl": "/go/alpnames/coach",
+    "whoisPrivacy": true,
+    "price": "$34.99"
+  },
+  ".sg": {
+    "registarName": "Crazy Domains",
+    "registarUrl": "/go/crazydomains/sg",
+    "whoisPrivacy": true,
+    "price": "$28.50"
+  },
+  ".ge": {
+    "registarName": "Espace 2001",
+    "registarUrl": "/go/espace2001/ge",
+    "whoisPrivacy": false,
+    "price": "$77.98"
+  },
+  ".lotto": {
+    "registarName": "Regtons",
+    "registarUrl": "/go/regtons/lotto",
+    "whoisPrivacy": true,
+    "price": "$1,790.00"
+  },
+  ".sx": {
+    "registarName": "BigRock",
+    "registarUrl": "/go/bigrock/sx",
+    "whoisPrivacy": true,
+    "price": "$23.99"
+  },
+  ".actor": {
+    "registarName": "Dotology",
+    "registarUrl": "/go/dotology/actor",
+    "whoisPrivacy": true,
+    "price": "$8.98"
+  },
+  ".bar": {
+    "registarName": "AlpNames",
+    "registarUrl": "/go/alpnames/bar",
+    "whoisPrivacy": true,
+    "price": "$52.99"
+  },
+  ".my": {
+    "registarName": "Hexonet",
+    "registarUrl": "/go/hexonet/my",
+    "whoisPrivacy": false,
+    "price": "$49.00"
+  },
+  ".travel": {
+    "registarName": "Gandi.net",
+    "registarUrl": "/go/gandi/travel",
+    "whoisPrivacy": true,
+    "price": "$90.00"
+  },
+  ".video": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/video",
+    "whoisPrivacy": true,
+    "price": "$14.99"
+  },
+  ".band": {
+    "registarName": "Espace 2001",
+    "registarUrl": "/go/espace2001/band",
+    "whoisPrivacy": true,
+    "price": "$16.84"
+  },
+  ".lc": {
+    "registarName": "Espace 2001",
+    "registarUrl": "/go/espace2001/lc",
+    "whoisPrivacy": true,
+    "price": "$25.52"
+  },
+  ".reviews": {
+    "registarName": "Dotology",
+    "registarUrl": "/go/dotology/reviews",
+    "whoisPrivacy": true,
+    "price": "$9.98"
+  },
+  ".business": {
+    "registarName": "Espace 2001",
+    "registarUrl": "/go/espace2001/business",
+    "whoisPrivacy": true,
+    "price": "$14.75"
+  },
+  ".cards": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/cards",
+    "whoisPrivacy": true,
+    "price": "$19.99"
+  },
+  ".sk": {
+    "registarName": "Regtons",
+    "registarUrl": "/go/regtons/sk",
+    "whoisPrivacy": false,
+    "price": "$21.73"
+  },
+  ".yt": {
+    "registarName": "Internet.bs",
+    "registarUrl": "/go/internet.bs/yt",
+    "whoisPrivacy": false,
+    "price": "$6.79"
+  },
+  ".pt": {
+    "registarName": "Netim",
+    "registarUrl": "/go/netim/pt",
+    "whoisPrivacy": false,
+    "price": "$20.50"
+  },
+  ".fail": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/fail",
+    "whoisPrivacy": true,
+    "price": "$19.99"
+  },
+  ".vision": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/vision",
+    "whoisPrivacy": true,
+    "price": "$19.99"
+  },
+  ".security": {
+    "registarName": "Crazy Domains",
+    "registarUrl": "/go/crazydomains/security",
+    "whoisPrivacy": true,
+    "price": "$1,900.95"
+  },
+  ".wf": {
+    "registarName": "Internet.bs",
+    "registarUrl": "/go/internet.bs/wf",
+    "whoisPrivacy": false,
+    "price": "$6.79"
+  },
+  ".gd": {
+    "registarName": "Espace 2001",
+    "registarUrl": "/go/espace2001/gd",
+    "whoisPrivacy": true,
+    "price": "$28.61"
+  },
+  ".gs": {
+    "registarName": "Hexonet",
+    "registarUrl": "/go/hexonet/gs",
+    "whoisPrivacy": true,
+    "price": "$24.00"
+  },
+  ".na": {
+    "registarName": "EuroDNS",
+    "registarUrl": "/go/eurodns/na",
+    "whoisPrivacy": false,
+    "price": "$4,163.47"
+  },
+  ".as": {
+    "registarName": "Netim",
+    "registarUrl": "/go/netim/as",
+    "whoisPrivacy": false,
+    "price": "$66.00"
+  },
+  ".ar": {
+    "registarName": "Marcaria.com",
+    "registarUrl": "/go/marcaria/ar",
+    "whoisPrivacy": false,
+    "price": "$29.00"
+  },
+  ".codes": {
+    "registarName": "AlpNames",
+    "registarUrl": "/go/alpnames/codes",
+    "whoisPrivacy": true,
+    "price": "$34.99"
+  },
+  ".tc": {
+    "registarName": "Espace 2001",
+    "registarUrl": "/go/espace2001/tc",
+    "whoisPrivacy": false,
+    "price": "$51.15"
+  },
+  ".tf": {
+    "registarName": "Internet.bs",
+    "registarUrl": "/go/internet.bs/tf",
+    "whoisPrivacy": false,
+    "price": "$6.79"
+  },
+  ".ie": {
+    "registarName": "Espace 2001",
+    "registarUrl": "/go/espace2001/ie",
+    "whoisPrivacy": false,
+    "price": "$26.52"
+  },
+  ".gold": {
+    "registarName": "Porkbun",
+    "registarUrl": "/go/porkbun/gold",
+    "whoisPrivacy": true,
+    "price": "$69.57"
+  },
+  ".law": {
+    "registarName": "Minds + Machines",
+    "registarUrl": "/go/mindsandmachines/law",
+    "whoisPrivacy": false,
+    "price": "$210.00"
+  },
+  ".an": {
+    "registarName": "Regtons",
+    "registarUrl": "/go/regtons/an",
+    "whoisPrivacy": false,
+    "price": "$345.10"
+  },
+  ".tips": {
+    "registarName": "Espace 2001",
+    "registarUrl": "/go/espace2001/tips",
+    "whoisPrivacy": true,
+    "price": "$14.75"
+  },
+  ".computer": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/computer",
+    "whoisPrivacy": true,
+    "price": "$9.99"
+  },
+  ".game": {
+    "registarName": "United Domains",
+    "registarUrl": "/go/uniteddomains/game",
+    "whoisPrivacy": true,
+    "price": "$29.00"
+  },
+  ".dk": {
+    "registarName": "Hexonet",
+    "registarUrl": "/go/hexonet/dk",
+    "whoisPrivacy": false,
+    "price": "$10.62"
+  },
+  ".fitness": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/fitness",
+    "whoisPrivacy": true,
+    "price": "$19.99"
+  },
+  ".tl": {
+    "registarName": "OnlyDomains",
+    "registarUrl": "/go/onlydomains/tl",
+    "whoisPrivacy": false,
+    "price": "$49.99"
+  },
+  ".best": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/best",
+    "whoisPrivacy": true,
+    "price": "$69.99"
+  },
+  ".services": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/services",
+    "whoisPrivacy": true,
+    "price": "$19.99"
+  },
+  ".blackfriday": {
+    "registarName": "AlpNames",
+    "registarUrl": "/go/alpnames/blackfriday",
+    "whoisPrivacy": true,
+    "price": "$28.99"
+  },
+  ".fit": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/fit",
+    "whoisPrivacy": true,
+    "price": "$19.99"
+  },
+  ".ec": {
+    "registarName": "Marcaria.com",
+    "registarUrl": "/go/marcaria/ec",
+    "whoisPrivacy": true,
+    "price": "$61.00"
+  },
+  ".om": {
+    "registarName": "Marcaria.com",
+    "registarUrl": "/go/marcaria/om",
+    "whoisPrivacy": false,
+    "price": "$268.00"
+  },
+  ".su": {
+    "registarName": "Marcaria.com",
+    "registarUrl": "/go/marcaria/su",
+    "whoisPrivacy": false,
+    "price": "$24.00"
+  },
+  ".audio": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/audio",
+    "whoisPrivacy": true,
+    "price": "$9.99"
+  },
+  ".ovh": {
+    "registarName": "Espace 2001",
+    "registarUrl": "/go/espace2001/ovh",
+    "whoisPrivacy": false,
+    "price": "$3.58"
+  },
+  ".aq": {
+    "registarName": "Marcaria.com",
+    "registarUrl": "/go/marcaria/aq",
+    "whoisPrivacy": false,
+    "price": "$97.00"
+  },
+  ".villas": {
+    "registarName": "AlpNames",
+    "registarUrl": "/go/alpnames/villas",
+    "whoisPrivacy": true,
+    "price": "$34.99"
+  },
+  ".loan": {
+    "registarName": "AlpNames",
+    "registarUrl": "/go/alpnames/loan",
+    "whoisPrivacy": true,
+    "price": "$0.66"
+  },
+  ".lawyer": {
+    "registarName": "AlpNames",
+    "registarUrl": "/go/alpnames/lawyer",
+    "whoisPrivacy": true,
+    "price": "$26.99"
+  },
+  ".ripTLDLIST": {
+    "registarName": "NameSilo",
+    "registarUrl": "/go/namesilo/rip",
+    "whoisPrivacy": true,
+    "price": "$12.99"
+  },
+  ".systems": {
+    "registarName": "Espace 2001",
+    "registarUrl": "/go/espace2001/systems",
+    "whoisPrivacy": true,
+    "price": "$14.75"
+  },
+  ".voyage": {
+    "registarName": "Gandi.net",
+    "registarUrl": "/go/gandi/voyage",
+    "whoisPrivacy": true,
+    "price": "$10.00"
+  },
+  ".consulting": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/consulting",
+    "whoisPrivacy": true,
+    "price": "$19.99"
+  },
+  ".coffee": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/coffee",
+    "whoisPrivacy": true,
+    "price": "$19.99"
+  },
+  ".nz": {
+    "registarName": "AmenWorld",
+    "registarUrl": "/go/amenworld/nz",
+    "whoisPrivacy": false,
+    "price": "$13.59"
+  },
+  ".restaurant": {
+    "registarName": "AlpNames",
+    "registarUrl": "/go/alpnames/restaurant",
+    "whoisPrivacy": true,
+    "price": "$34.99"
+  },
+  ".gr": {
+    "registarName": "Espace 2001",
+    "registarUrl": "/go/espace2001/gr",
+    "whoisPrivacy": false,
+    "price": "$14.85"
+  },
+  ".cash": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/cash",
+    "whoisPrivacy": true,
+    "price": "$19.99"
+  },
+  ".tours": {
+    "registarName": "AlpNames",
+    "registarUrl": "/go/alpnames/tours",
+    "whoisPrivacy": true,
+    "price": "$34.99"
+  },
+  ".racing": {
+    "registarName": "AlpNames",
+    "registarUrl": "/go/alpnames/racing",
+    "whoisPrivacy": true,
+    "price": "$0.66"
+  },
+  ".md": {
+    "registarName": "Netim",
+    "registarUrl": "/go/netim/md",
+    "whoisPrivacy": false,
+    "price": "$54.50"
+  },
+  ".porn": {
+    "registarName": "Marcaria.com",
+    "registarUrl": "/go/marcaria/porn",
+    "whoisPrivacy": true,
+    "price": "$9.00"
+  },
+  ".equipment": {
+    "registarName": "Espace 2001",
+    "registarUrl": "/go/espace2001/equipment",
+    "whoisPrivacy": true,
+    "price": "$14.75"
+  },
+  ".properties": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/properties",
+    "whoisPrivacy": true,
+    "price": "$19.99"
+  },
+  ".diet": {
+    "registarName": "AlpNames",
+    "registarUrl": "/go/alpnames/diet",
+    "whoisPrivacy": true,
+    "price": "$14.99"
+  },
+  ".flights": {
+    "registarName": "AlpNames",
+    "registarUrl": "/go/alpnames/flights",
+    "whoisPrivacy": true,
+    "price": "$34.99"
+  },
+  ".si": {
+    "registarName": "Netim",
+    "registarUrl": "/go/netim/si",
+    "whoisPrivacy": false,
+    "price": "$18.50"
+  },
+  ".ren": {
+    "registarName": "101domain",
+    "registarUrl": "/go/101domain/ren",
+    "whoisPrivacy": true,
+    "price": "$15.99"
+  },
+  ".sa": {
+    "registarName": "Espace 2001",
+    "registarUrl": "/go/espace2001/sa",
+    "whoisPrivacy": false,
+    "price": "$245.84"
+  },
+  ".delivery": {
+    "registarName": "AlpNames",
+    "registarUrl": "/go/alpnames/delivery",
+    "whoisPrivacy": true,
+    "price": "$34.99"
+  },
+  ".rentals": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/rentals",
+    "whoisPrivacy": true,
+    "price": "$19.99"
+  },
+  ".ck": {
+    "registarName": "Gandi.net",
+    "registarUrl": "/go/gandi/ck",
+    "whoisPrivacy": false,
+    "price": "$293.00"
+  },
+  ".cool": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/cool",
+    "whoisPrivacy": true,
+    "price": "$19.99"
+  },
+  ".team": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/team",
+    "whoisPrivacy": true,
+    "price": "$19.99"
+  },
+  ".army": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/army",
+    "whoisPrivacy": true,
+    "price": "$19.99"
+  },
+  ".toys": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/toys",
+    "whoisPrivacy": true,
+    "price": "$19.99"
+  },
+  ".university": {
+    "registarName": "AlpNames",
+    "registarUrl": "/go/alpnames/university",
+    "whoisPrivacy": true,
+    "price": "$34.99"
+  },
+  ".by": {
+    "registarName": "101domain",
+    "registarUrl": "/go/101domain/by",
+    "whoisPrivacy": false,
+    "price": "$15.00"
+  },
+  ".hu": {
+    "registarName": "Regtons",
+    "registarUrl": "/go/regtons/hu",
+    "whoisPrivacy": false,
+    "price": "$12.95"
+  },
+  ".accountant": {
+    "registarName": "AlpNames",
+    "registarUrl": "/go/alpnames/accountant",
+    "whoisPrivacy": true,
+    "price": "$0.85"
+  },
+  ".lgbt": {
+    "registarName": "101domain",
+    "registarUrl": "/go/101domain/lgbt",
+    "whoisPrivacy": true,
+    "price": "$2.75"
+  },
+  ".hr": {
+    "registarName": "Netim",
+    "registarUrl": "/go/netim/hr",
+    "whoisPrivacy": false,
+    "price": "$88.50"
+  },
+  ".photography": {
+    "registarName": "Espace 2001",
+    "registarUrl": "/go/espace2001/photography",
+    "whoisPrivacy": true,
+    "price": "$14.75"
+  },
+  ".ga": {
+    "registarName": "Netim",
+    "registarUrl": "/go/netim/ga",
+    "whoisPrivacy": false,
+    "price": "$14.00"
+  },
+  ".adult": {
+    "registarName": "Marcaria.com",
+    "registarUrl": "/go/marcaria/adult",
+    "whoisPrivacy": true,
+    "price": "$9.00"
+  },
+  ".みんな": {
+    "registarName": "EuroDNS",
+    "registarUrl": "/go/eurodns/みんな",
+    "whoisPrivacy": true,
+    "price": "$12.18"
+  },
+  ".pink": {
+    "registarName": "101domain",
+    "registarUrl": "/go/101domain/pink",
+    "whoisPrivacy": true,
+    "price": "$2.75"
+  },
+  ".移动": {
+    "registarName": "101domain",
+    "registarUrl": "/go/101domain/移动",
+    "whoisPrivacy": true,
+    "price": "$2.75"
+  },
+  ".school": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/school",
+    "whoisPrivacy": true,
+    "price": "$19.99"
+  },
+  ".ski": {
+    "registarName": "Espace 2001",
+    "registarUrl": "/go/espace2001/ski",
+    "whoisPrivacy": true,
+    "price": "$29.61"
+  },
+  ".cr": {
+    "registarName": "EuroDNS",
+    "registarUrl": "/go/eurodns/cr",
+    "whoisPrivacy": false,
+    "price": "$108.54"
+  },
+  ".viajes": {
+    "registarName": "AlpNames",
+    "registarUrl": "/go/alpnames/viajes",
+    "whoisPrivacy": true,
+    "price": "$34.99"
+  },
+  ".farm": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/farm",
+    "whoisPrivacy": true,
+    "price": "$19.99"
+  },
+  ".bg": {
+    "registarName": "Netim",
+    "registarUrl": "/go/netim/bg",
+    "whoisPrivacy": false,
+    "price": "$48.00"
+  },
+  ".wine": {
+    "registarName": "AlpNames",
+    "registarUrl": "/go/alpnames/wine",
+    "whoisPrivacy": true,
+    "price": "$34.99"
+  },
+  ".community": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/community",
+    "whoisPrivacy": true,
+    "price": "$19.99"
+  },
+  ".country": {
+    "registarName": "Espace 2001",
+    "registarUrl": "/go/espace2001/country",
+    "whoisPrivacy": true,
+    "price": "$9.46"
+  },
+  ".qa": {
+    "registarName": "Hexonet",
+    "registarUrl": "/go/hexonet/qa",
+    "whoisPrivacy": true,
+    "price": "$35.06"
+  },
+  ".az": {
+    "registarName": "Espace 2001",
+    "registarUrl": "/go/espace2001/az",
+    "whoisPrivacy": false,
+    "price": "$254.32"
+  },
+  ".legal": {
+    "registarName": "AlpNames",
+    "registarUrl": "/go/alpnames/legal",
+    "whoisPrivacy": true,
+    "price": "$34.99"
+  },
+  ".lt": {
+    "registarName": "Hexonet",
+    "registarUrl": "/go/hexonet/lt",
+    "whoisPrivacy": false,
+    "price": "$14.10"
+  },
+  ".tools": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/tools",
+    "whoisPrivacy": true,
+    "price": "$19.99"
+  },
+  ".directory": {
+    "registarName": "Espace 2001",
+    "registarUrl": "/go/espace2001/directory",
+    "whoisPrivacy": true,
+    "price": "$14.75"
+  },
+  ".marketing": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/marketing",
+    "whoisPrivacy": true,
+    "price": "$19.99"
+  },
+  ".software": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/software",
+    "whoisPrivacy": true,
+    "price": "$19.99"
+  },
+  ".management": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/management",
+    "whoisPrivacy": true,
+    "price": "$6.99"
+  },
+  ".house": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/house",
+    "whoisPrivacy": true,
+    "price": "$19.99"
+  },
+  ".भारत": {
+    "registarName": "101domain",
+    "registarUrl": "/go/101domain/भारत",
+    "whoisPrivacy": false,
+    "price": "$7.00"
+  },
+  ".et": {
+    "registarName": "Gandi.net",
+    "registarUrl": "/go/gandi/et",
+    "whoisPrivacy": false,
+    "price": "$377.00"
+  },
+  ".earth": {
+    "registarName": "GoDaddy",
+    "registarUrl": "/go/godaddy/earth",
+    "whoisPrivacy": true,
+    "price": "$9.99"
+  },
+  ".ph": {
+    "registarName": "Hexonet",
+    "registarUrl": "/go/hexonet/ph",
+    "whoisPrivacy": false,
+    "price": "$39.90"
+  },
+  ".london": {
+    "registarName": "Espace 2001",
+    "registarUrl": "/go/espace2001/london",
+    "whoisPrivacy": true,
+    "price": "$38.49"
+  },
+  ".place": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/place",
+    "whoisPrivacy": true,
+    "price": "$19.99"
+  },
+  ".cl": {
+    "registarName": "Marcaria.com",
+    "registarUrl": "/go/marcaria/cl",
+    "whoisPrivacy": false,
+    "price": "$35.00"
+  },
+  ".technology": {
+    "registarName": "Espace 2001",
+    "registarUrl": "/go/espace2001/technology",
+    "whoisPrivacy": true,
+    "price": "$14.75"
+  },
+  ".gift": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/gift",
+    "whoisPrivacy": true,
+    "price": "$14.99"
+  },
+  ".rio": {
+    "registarName": "Regtons",
+    "registarUrl": "/go/regtons/rio",
+    "whoisPrivacy": false,
+    "price": "$22.72"
+  },
+  ".golf": {
+    "registarName": "AlpNames",
+    "registarUrl": "/go/alpnames/golf",
+    "whoisPrivacy": true,
+    "price": "$34.99"
+  },
+  ".show": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/show",
+    "whoisPrivacy": true,
+    "price": "$19.99"
+  },
+  ".how": {
+    "registarName": "Espace 2001",
+    "registarUrl": "/go/espace2001/how",
+    "whoisPrivacy": true,
+    "price": "$25.52"
+  },
+  ".ngo": {
+    "registarName": "AmenWorld",
+    "registarUrl": "/go/amenworld/ngo",
+    "whoisPrivacy": true,
+    "price": "$37.43"
+  },
+  ".cd": {
+    "registarName": "Netim",
+    "registarUrl": "/go/netim/cd",
+    "whoisPrivacy": false,
+    "price": "$48.00"
+  },
+  ".cz": {
+    "registarName": "Regtons",
+    "registarUrl": "/go/regtons/cz",
+    "whoisPrivacy": true,
+    "price": "$9.10"
+  },
+  ".property": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/property",
+    "whoisPrivacy": true,
+    "price": "$19.99"
+  },
+  ".style": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/style",
+    "whoisPrivacy": true,
+    "price": "$19.99"
+  },
+  ".tokyo": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/tokyo",
+    "whoisPrivacy": true,
+    "price": "$9.99"
+  },
+  ".clinic": {
+    "registarName": "AlpNames",
+    "registarUrl": "/go/alpnames/clinic",
+    "whoisPrivacy": true,
+    "price": "$34.99"
+  },
+  ".mo": {
+    "registarName": "Espace 2001",
+    "registarUrl": "/go/espace2001/mo",
+    "whoisPrivacy": false,
+    "price": "$147.10"
+  },
+  ".fish": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/fish",
+    "whoisPrivacy": true,
+    "price": "$19.99"
+  },
+  ".onl": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/onl",
+    "whoisPrivacy": true,
+    "price": "$9.99"
+  },
+  ".ao": {
+    "registarName": "Gandi.net",
+    "registarUrl": "/go/gandi/ao",
+    "whoisPrivacy": false,
+    "price": "$650.00"
+  },
+  ".sale": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/sale",
+    "whoisPrivacy": true,
+    "price": "$19.99"
+  },
+  ".deals": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/deals",
+    "whoisPrivacy": true,
+    "price": "$19.99"
+  },
+  ".green": {
+    "registarName": "101domain",
+    "registarUrl": "/go/101domain/green",
+    "whoisPrivacy": true,
+    "price": "$2.75"
+  },
+  ".bb": {
+    "registarName": "Marcaria.com",
+    "registarUrl": "/go/marcaria/bb",
+    "whoisPrivacy": false,
+    "price": "$139.00"
+  },
+  ".boutique": {
+    "registarName": "Gandi.net",
+    "registarUrl": "/go/gandi/boutique",
+    "whoisPrivacy": true,
+    "price": "$10.00"
+  },
+  ".ki": {
+    "registarName": "Hexonet",
+    "registarUrl": "/go/hexonet/ki",
+    "whoisPrivacy": false,
+    "price": "$1,053.70"
+  },
+  ".exchange": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/exchange",
+    "whoisPrivacy": true,
+    "price": "$19.99"
+  },
+  ".foundation": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/foundation",
+    "whoisPrivacy": true,
+    "price": "$19.99"
+  },
+  ".vodka": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/vodka",
+    "whoisPrivacy": true,
+    "price": "$19.99"
+  },
+  ".camp": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/camp",
+    "whoisPrivacy": true,
+    "price": "$19.99"
+  },
+  ".picturesTLDLIST": {
+    "registarName": "NameSilo",
+    "registarUrl": "/go/namesilo/pictures",
+    "whoisPrivacy": true,
+    "price": "$7.99"
+  },
+  ".شبكة": {
+    "registarName": "AmenWorld",
+    "registarUrl": "/go/amenworld/شبكة",
+    "whoisPrivacy": true,
+    "price": "$14.59"
+  },
+  ".camera": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/camera",
+    "whoisPrivacy": true,
+    "price": "$19.99"
+  },
+  ".edu": {
+    "registarName": "Marcaria.com",
+    "registarUrl": "/go/marcaria/edu",
+    "whoisPrivacy": false,
+    "price": "$160.00"
+  },
+  ".horse": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/horse",
+    "whoisPrivacy": true,
+    "price": "$19.99"
+  },
+  ".jobs": {
+    "registarName": "Hexonet",
+    "registarUrl": "/go/hexonet/jobs",
+    "whoisPrivacy": true,
+    "price": "$116.00"
+  },
+  ".photos": {
+    "registarName": "Espace 2001",
+    "registarUrl": "/go/espace2001/photos",
+    "whoisPrivacy": true,
+    "price": "$14.75"
+  },
+  ".mn": {
+    "registarName": "AmenWorld",
+    "registarUrl": "/go/amenworld/mn",
+    "whoisPrivacy": true,
+    "price": "$39.44"
+  },
+  ".cheap": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/cheap",
+    "whoisPrivacy": true,
+    "price": "$19.99"
+  },
+  ".film": {
+    "registarName": "Espace 2001",
+    "registarUrl": "/go/espace2001/film",
+    "whoisPrivacy": true,
+    "price": "$71.99"
+  },
+  ".run": {
+    "registarName": "AlpNames",
+    "registarUrl": "/go/alpnames/run",
+    "whoisPrivacy": true,
+    "price": "$14.89"
+  },
+  ".engineer": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/engineer",
+    "whoisPrivacy": true,
+    "price": "$19.99"
+  },
+  ".archi": {
+    "registarName": "Espace 2001",
+    "registarUrl": "/go/espace2001/archi",
+    "whoisPrivacy": true,
+    "price": "$54.25"
+  },
+  ".hosting": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/hosting",
+    "whoisPrivacy": true,
+    "price": "$19.99"
+  },
+  ".dating": {
+    "registarName": "AlpNames",
+    "registarUrl": "/go/alpnames/dating",
+    "whoisPrivacy": true,
+    "price": "$34.99"
+  },
+  ".buzz": {
+    "registarName": "Dotology",
+    "registarUrl": "/go/dotology/buzz",
+    "whoisPrivacy": true,
+    "price": "$14.99"
+  },
+  ".airforce": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/airforce",
+    "whoisPrivacy": true,
+    "price": "$19.99"
+  },
+  ".bi": {
+    "registarName": "Netim",
+    "registarUrl": "/go/netim/bi",
+    "whoisPrivacy": false,
+    "price": "$48.00"
+  },
+  ".builders": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/builders",
+    "whoisPrivacy": true,
+    "price": "$19.99"
+  },
+  ".capital": {
+    "registarName": "AlpNames",
+    "registarUrl": "/go/alpnames/capital",
+    "whoisPrivacy": true,
+    "price": "$34.99"
+  },
+  ".moda": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/moda",
+    "whoisPrivacy": true,
+    "price": "$19.99"
+  },
+  ".gq": {
+    "registarName": "Netim",
+    "registarUrl": "/go/netim/gq",
+    "whoisPrivacy": false,
+    "price": "$14.00"
+  },
+  ".th": {
+    "registarName": "Gandi.net",
+    "registarUrl": "/go/gandi/th",
+    "whoisPrivacy": false,
+    "price": "$137.00"
+  },
+  ".tw": {
+    "registarName": "Espace 2001",
+    "registarUrl": "/go/espace2001/tw",
+    "whoisPrivacy": true,
+    "price": "$18.74"
+  },
+  ".vg": {
+    "registarName": "Espace 2001",
+    "registarUrl": "/go/espace2001/vg",
+    "whoisPrivacy": true,
+    "price": "$28.61"
+  },
+  ".ceo": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/ceo",
+    "whoisPrivacy": true,
+    "price": "$69.99"
+  },
+  ".tel": {
+    "registarName": "Espace 2001",
+    "registarUrl": "/go/espace2001/tel",
+    "whoisPrivacy": true,
+    "price": "$10.87"
+  },
+  ".tt": {
+    "registarName": "Gandi.net",
+    "registarUrl": "/go/gandi/tt",
+    "whoisPrivacy": false,
+    "price": "$268.80"
+  },
+  ".ventures": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/ventures",
+    "whoisPrivacy": true,
+    "price": "$19.99"
+  },
+  ".gripe": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/gripe",
+    "whoisPrivacy": true,
+    "price": "$19.99"
+  },
+  ".fund": {
+    "registarName": "AlpNames",
+    "registarUrl": "/go/alpnames/fund",
+    "whoisPrivacy": true,
+    "price": "$34.99"
+  },
+  ".auction": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/auction",
+    "whoisPrivacy": true,
+    "price": "$19.99"
+  },
+  ".ke": {
+    "registarName": "Gandi.net",
+    "registarUrl": "/go/gandi/ke",
+    "whoisPrivacy": false,
+    "price": "$130.00"
+  },
+  ".ir": {
+    "registarName": "Netim",
+    "registarUrl": "/go/netim/ir",
+    "whoisPrivacy": false,
+    "price": "$41.00"
+  },
+  ".vn": {
+    "registarName": "Netim",
+    "registarUrl": "/go/netim/vn",
+    "whoisPrivacy": false,
+    "price": "$54.50"
+  },
+  ".gallery": {
+    "registarName": "Espace 2001",
+    "registarUrl": "/go/espace2001/gallery",
+    "whoisPrivacy": true,
+    "price": "$14.75"
+  },
+  ".bo": {
+    "registarName": "Espace 2001",
+    "registarUrl": "/go/espace2001/bo",
+    "whoisPrivacy": false,
+    "price": "$201.46"
+  },
+  ".ax": {
+    "registarName": "Espace 2001",
+    "registarUrl": "/go/espace2001/ax",
+    "whoisPrivacy": false,
+    "price": "$125.86"
+  },
+  ".bf": {
+    "registarName": "Espace 2001",
+    "registarUrl": "/go/espace2001/bf",
+    "whoisPrivacy": false,
+    "price": "$132.74"
+  },
+  ".rent": {
+    "registarName": "Namecheap",
+    "registarUrl": "/go/namecheap/rent",
+    "whoisPrivacy": true,
+    "price": "$8.88"
+  },
+  ".fyi": {
+    "registarName": "AlpNames",
+    "registarUrl": "/go/alpnames/fyi",
+    "whoisPrivacy": true,
+    "price": "$14.89"
+  },
+  ".ua": {
+    "registarName": "Netim",
+    "registarUrl": "/go/netim/ua",
+    "whoisPrivacy": false,
+    "price": "$43.50"
+  },
+  ".guitars": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/guitars",
+    "whoisPrivacy": true,
+    "price": "$19.99"
+  },
+  ".support": {
+    "registarName": "Espace 2001",
+    "registarUrl": "/go/espace2001/support",
+    "whoisPrivacy": true,
+    "price": "$14.75"
+  },
+  ".scot": {
+    "registarName": "Crazy Domains",
+    "registarUrl": "/go/crazydomains/scot",
+    "whoisPrivacy": true,
+    "price": "$36.50"
+  },
+  ".ve": {
+    "registarName": "Gandi.net",
+    "registarUrl": "/go/gandi/ve",
+    "whoisPrivacy": false,
+    "price": "$98.00"
+  },
+  ".build": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/build",
+    "whoisPrivacy": true,
+    "price": "$49.99"
+  },
+  ".careers": {
+    "registarName": "AlpNames",
+    "registarUrl": "/go/alpnames/careers",
+    "whoisPrivacy": true,
+    "price": "$34.99"
+  },
+  ".productions": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/productions",
+    "whoisPrivacy": true,
+    "price": "$19.99"
+  },
+  ".singles": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/singles",
+    "whoisPrivacy": true,
+    "price": "$19.99"
+  },
+  ".cf": {
+    "registarName": "Netim",
+    "registarUrl": "/go/netim/cf",
+    "whoisPrivacy": false,
+    "price": "$14.00"
+  },
+  ".accountants": {
+    "registarName": "AlpNames",
+    "registarUrl": "/go/alpnames/accountants",
+    "whoisPrivacy": true,
+    "price": "$67.99"
+  },
+  ".surf": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/surf",
+    "whoisPrivacy": true,
+    "price": "$19.99"
+  },
+  ".mom": {
+    "registarName": "101domain",
+    "registarUrl": "/go/101domain/mom",
+    "whoisPrivacy": true,
+    "price": "$1.99"
+  },
+  ".futbolTLDLIST": {
+    "registarName": "AlpNames",
+    "registarUrl": "/go/alpnames/futbol",
+    "whoisPrivacy": true,
+    "price": "$8.99"
+  },
+  ".engineering": {
+    "registarName": "AlpNames",
+    "registarUrl": "/go/alpnames/engineering",
+    "whoisPrivacy": true,
+    "price": "$34.99"
+  },
+  ".संगठन": {
+    "registarName": "Regtons",
+    "registarUrl": "/go/regtons/संगठन",
+    "whoisPrivacy": true,
+    "price": "$9.42"
+  },
+  ".flowers": {
+    "registarName": "Uniregistry",
+    "registarUrl": "/go/uniregistry/flowers",
+    "whoisPrivacy": true,
+    "price": "$4.88"
+  },
+  ".clothing": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/clothing",
+    "whoisPrivacy": true,
+    "price": "$19.99"
+  },
+  ".fashion": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/fashion",
+    "whoisPrivacy": true,
+    "price": "$19.99"
+  },
+  ".cab": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/cab",
+    "whoisPrivacy": true,
+    "price": "$19.99"
+  },
+  ".iq": {
+    "registarName": "Marcaria.com",
+    "registarUrl": "/go/marcaria/iq",
+    "whoisPrivacy": false,
+    "price": "$198.00"
+  },
+  ".mk": {
+    "registarName": "ISTanCo",
+    "registarUrl": "/go/istanco/mk",
+    "whoisPrivacy": false,
+    "price": "$25.35"
+  },
+  ".mu": {
+    "registarName": "Netim",
+    "registarUrl": "/go/netim/mu",
+    "whoisPrivacy": true,
+    "price": "$70.50"
+  },
+  ".surgery": {
+    "registarName": "AlpNames",
+    "registarUrl": "/go/alpnames/surgery",
+    "whoisPrivacy": true,
+    "price": "$34.99"
+  },
+  ".associates": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/associates",
+    "whoisPrivacy": true,
+    "price": "$19.99"
+  },
+  ".holiday": {
+    "registarName": "AlpNames",
+    "registarUrl": "/go/alpnames/holiday",
+    "whoisPrivacy": true,
+    "price": "$34.99"
+  },
+  ".miami": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/miami",
+    "whoisPrivacy": true,
+    "price": "$11.99"
+  },
+  ".укр": {
+    "registarName": "Netim",
+    "registarUrl": "/go/netim/укр",
+    "whoisPrivacy": false,
+    "price": "$14.00"
+  },
+  ".dz": {
+    "registarName": "Netim",
+    "registarUrl": "/go/netim/dz",
+    "whoisPrivacy": false,
+    "price": "$27.50"
+  },
+  ".rich": {
+    "registarName": "Gandi.net",
+    "registarUrl": "/go/gandi/rich",
+    "whoisPrivacy": true,
+    "price": "$1,769.61"
+  },
+  ".spreadbetting": {
+    "registarName": "Hexonet",
+    "registarUrl": "/go/hexonet/spreadbetting",
+    "whoisPrivacy": false,
+    "price": "$22,500.00"
+  },
+  ".sarl": {
+    "registarName": "Gandi.net",
+    "registarUrl": "/go/gandi/sarl",
+    "whoisPrivacy": true,
+    "price": "$10.00"
+  },
+  ".loans": {
+    "registarName": "Regtons",
+    "registarUrl": "/go/regtons/loans",
+    "whoisPrivacy": true,
+    "price": "$25.99"
+  },
+  ".ml": {
+    "registarName": "Espace 2001",
+    "registarUrl": "/go/espace2001/ml",
+    "whoisPrivacy": false,
+    "price": "$11.86"
+  },
+  ".இந்தியா": {
+    "registarName": "Dynadot",
+    "registarUrl": "/go/dynadot/இந்தியா",
+    "whoisPrivacy": false,
+    "price": "$10.99"
+  },
+  ".haus": {
+    "registarName": "Crazy Domains",
+    "registarUrl": "/go/crazydomains/haus",
+    "whoisPrivacy": true,
+    "price": "$19.50"
+  },
+  ".healthcare": {
+    "registarName": "AlpNames",
+    "registarUrl": "/go/alpnames/healthcare",
+    "whoisPrivacy": true,
+    "price": "$34.99"
+  },
+  ".repair": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/repair",
+    "whoisPrivacy": true,
+    "price": "$19.99"
+  },
+  ".berlin": {
+    "registarName": "Netim",
+    "registarUrl": "/go/netim/berlin",
+    "whoisPrivacy": true,
+    "price": "$36.50"
+  },
+  ".desi": {
+    "registarName": "Name.com",
+    "registarUrl": "/go/name.com/desi",
+    "whoisPrivacy": true,
+    "price": "$12.99"
+  },
+  ".education": {
+    "registarName": "Espace 2001",
+    "registarUrl": "/go/espace2001/education",
+    "whoisPrivacy": true,
+    "price": "$14.75"
+  },
+  ".training": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/training",
+    "whoisPrivacy": true,
+    "price": "$19.99"
+  },
+  ".vote": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/vote",
+    "whoisPrivacy": true,
+    "price": "$49.99"
+  },
+  ".furniture": {
+    "registarName": "Webnames.ca",
+    "registarUrl": "/go/webnames.ca/furniture",
+    "whoisPrivacy": true,
+    "price": "$18.99"
+  },
+  ".garden": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/garden",
+    "whoisPrivacy": true,
+    "price": "$19.99"
+  },
+  ".il": {
+    "registarName": "Gandi.net",
+    "registarUrl": "/go/gandi/il",
+    "whoisPrivacy": false,
+    "price": "$35.00"
+  },
+  ".gifts": {
+    "registarName": "Amazon Route 53",
+    "registarUrl": "/go/amazonroute53/gifts",
+    "whoisPrivacy": true,
+    "price": "$19.00"
+  },
+  ".pk": {
+    "registarName": "Marcaria.com",
+    "registarUrl": "/go/marcaria/pk",
+    "whoisPrivacy": false,
+    "price": "$35.00"
+  },
+  ".cooking": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/cooking",
+    "whoisPrivacy": true,
+    "price": "$19.99"
+  },
+  ".quebec": {
+    "registarName": "Netim",
+    "registarUrl": "/go/netim/quebec",
+    "whoisPrivacy": true,
+    "price": "$27.50"
+  },
+  ".aw": {
+    "registarName": "Espace 2001",
+    "registarUrl": "/go/espace2001/aw",
+    "whoisPrivacy": false,
+    "price": "$97.73"
+  },
+  ".menu": {
+    "registarName": "Espace 2001",
+    "registarUrl": "/go/espace2001/menu",
+    "whoisPrivacy": true,
+    "price": "$29.61"
+  },
+  ".express": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/express",
+    "whoisPrivacy": true,
+    "price": "$19.99"
+  },
+  ".dentist": {
+    "registarName": "AlpNames",
+    "registarUrl": "/go/alpnames/dentist",
+    "whoisPrivacy": true,
+    "price": "$26.99"
+  },
+  ".lv": {
+    "registarName": "Netim",
+    "registarUrl": "/go/netim/lv",
+    "whoisPrivacy": false,
+    "price": "$20.50"
+  },
+  ".international": {
+    "registarName": "Espace 2001",
+    "registarUrl": "/go/espace2001/international",
+    "whoisPrivacy": true,
+    "price": "$14.75"
+  },
+  ".shoes": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/shoes",
+    "whoisPrivacy": true,
+    "price": "$19.99"
+  },
+  ".town": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/town",
+    "whoisPrivacy": true,
+    "price": "$19.99"
+  },
+  ".gratis": {
+    "registarName": "Espace 2001",
+    "registarUrl": "/go/espace2001/gratis",
+    "whoisPrivacy": true,
+    "price": "$14.75"
+  },
+  ".kitchen": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/kitchen",
+    "whoisPrivacy": true,
+    "price": "$19.99"
+  },
+  ".lk": {
+    "registarName": "Marcaria.com",
+    "registarUrl": "/go/marcaria/lk",
+    "whoisPrivacy": false,
+    "price": "$36.00"
+  },
+  ".mp": {
+    "registarName": "Marcaria.com",
+    "registarUrl": "/go/marcaria/mp",
+    "whoisPrivacy": false,
+    "price": "$46.00"
+  },
+  ".pr": {
+    "registarName": "Marcaria.com",
+    "registarUrl": "/go/marcaria/pr",
+    "whoisPrivacy": false,
+    "price": "$1,249.00"
+  },
+  ".机构": {
+    "registarName": "Regtons",
+    "registarUrl": "/go/regtons/机构",
+    "whoisPrivacy": true,
+    "price": "$9.42"
+  },
+  ".credit": {
+    "registarName": "Porkbun",
+    "registarUrl": "/go/porkbun/credit",
+    "whoisPrivacy": true,
+    "price": "$69.57"
+  },
+  ".solar": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/solar",
+    "whoisPrivacy": true,
+    "price": "$19.99"
+  },
+  ".attorney": {
+    "registarName": "AlpNames",
+    "registarUrl": "/go/alpnames/attorney",
+    "whoisPrivacy": true,
+    "price": "$26.99"
+  },
+  ".lu": {
+    "registarName": "Hexonet",
+    "registarUrl": "/go/hexonet/lu",
+    "whoisPrivacy": false,
+    "price": "$23.57"
+  },
+  ".report": {
+    "registarName": "Espace 2001",
+    "registarUrl": "/go/espace2001/report",
+    "whoisPrivacy": true,
+    "price": "$14.75"
+  },
+  ".ci": {
+    "registarName": "Netim",
+    "registarUrl": "/go/netim/ci",
+    "whoisPrivacy": false,
+    "price": "$48.00"
+  },
+  ".insure": {
+    "registarName": "AlpNames",
+    "registarUrl": "/go/alpnames/insure",
+    "whoisPrivacy": true,
+    "price": "$34.99"
+  },
+  ".sm": {
+    "registarName": "Espace 2001",
+    "registarUrl": "/go/espace2001/sm",
+    "whoisPrivacy": false,
+    "price": "$166.85"
+  },
+  ".рф": {
+    "registarName": "Hexonet",
+    "registarUrl": "/go/hexonet/рф",
+    "whoisPrivacy": false,
+    "price": "$16.90"
+  },
+  ".ye": {
+    "registarName": "Gandi.net",
+    "registarUrl": "/go/gandi/ye",
+    "whoisPrivacy": false,
+    "price": "$260.00"
+  },
+  ".za": {
+    "registarName": "Gandi.net",
+    "registarUrl": "/go/gandi/za",
+    "whoisPrivacy": false,
+    "price": "$15.00"
+  },
+  ".bs": {
+    "registarName": "Marcaria.com",
+    "registarUrl": "/go/marcaria/bs",
+    "whoisPrivacy": false,
+    "price": "$250.00"
+  },
+  ".cu": {
+    "registarName": "OnlyDomains",
+    "registarUrl": "/go/onlydomains/cu",
+    "whoisPrivacy": false,
+    "price": "$665.00"
+  },
+  ".estate": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/estate",
+    "whoisPrivacy": true,
+    "price": "$19.99"
+  },
+  ".diamonds": {
+    "registarName": "AlpNames",
+    "registarUrl": "/go/alpnames/diamonds",
+    "whoisPrivacy": true,
+    "price": "$34.99"
+  },
+  ".apartments": {
+    "registarName": "AlpNames",
+    "registarUrl": "/go/alpnames/apartments",
+    "whoisPrivacy": true,
+    "price": "$34.99"
+  },
+  ".vip": {
+    "registarName": "Hexonet",
+    "registarUrl": "/go/hexonet/vip",
+    "whoisPrivacy": true,
+    "price": "$5.90"
+  },
+  ".shiksha": {
+    "registarName": "101domain",
+    "registarUrl": "/go/101domain/shiksha",
+    "whoisPrivacy": true,
+    "price": "$2.75"
+  },
+  ".bd": {
+    "registarName": "Gandi.net",
+    "registarUrl": "/go/gandi/bd",
+    "whoisPrivacy": false,
+    "price": "$97.50"
+  },
+  ".cv": {
+    "registarName": "Marcaria.com",
+    "registarUrl": "/go/marcaria/cv",
+    "whoisPrivacy": false,
+    "price": "$67.00"
+  },
+  ".organic": {
+    "registarName": "Regtons",
+    "registarUrl": "/go/regtons/organic",
+    "whoisPrivacy": false,
+    "price": "$60.00"
+  },
+  ".casino": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/casino",
+    "whoisPrivacy": true,
+    "price": "$99.99"
+  },
+  ".bh": {
+    "registarName": "Espace 2001",
+    "registarUrl": "/go/espace2001/bh",
+    "whoisPrivacy": false,
+    "price": "$221.30"
+  },
+  ".tr": {
+    "registarName": "Marcaria.com",
+    "registarUrl": "/go/marcaria/tr",
+    "whoisPrivacy": false,
+    "price": "$53.00"
+  },
+  ".москва": {
+    "registarName": "Regtons",
+    "registarUrl": "/go/regtons/москва",
+    "whoisPrivacy": true,
+    "price": "$7.56"
+  },
+  ".rehab": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/rehab",
+    "whoisPrivacy": true,
+    "price": "$19.99"
+  },
+  ".dj": {
+    "registarName": "Regtons",
+    "registarUrl": "/go/regtons/dj",
+    "whoisPrivacy": false,
+    "price": "$93.37"
+  },
+  ".immo": {
+    "registarName": "Gandi.net",
+    "registarUrl": "/go/gandi/immo",
+    "whoisPrivacy": true,
+    "price": "$10.00"
+  },
+  ".poker": {
+    "registarName": "101domain",
+    "registarUrl": "/go/101domain/poker",
+    "whoisPrivacy": true,
+    "price": "$2.75"
+  },
+  ".gdn": {
+    "registarName": "101domain",
+    "registarUrl": "/go/101domain/gdn",
+    "whoisPrivacy": false,
+    "price": "$2.99"
+  },
+  ".luxury": {
+    "registarName": "Espace 2001",
+    "registarUrl": "/go/espace2001/luxury",
+    "whoisPrivacy": true,
+    "price": "$454.38"
+  },
+  ".ps": {
+    "registarName": "Marcaria.com",
+    "registarUrl": "/go/marcaria/ps",
+    "whoisPrivacy": false,
+    "price": "$52.00"
+  },
+  ".sv": {
+    "registarName": "Marcaria.com",
+    "registarUrl": "/go/marcaria/sv",
+    "whoisPrivacy": false,
+    "price": "$120.00"
+  },
+  ".investments": {
+    "registarName": "Google Domains",
+    "registarUrl": "/go/googledomains/investments",
+    "whoisPrivacy": true,
+    "price": "$30.00"
+  },
+  ".pa": {
+    "registarName": "EuroDNS",
+    "registarUrl": "/go/eurodns/pa",
+    "whoisPrivacy": false,
+    "price": "$97.47"
+  },
+  ".gw": {
+    "registarName": "Netim",
+    "registarUrl": "/go/netim/gw",
+    "whoisPrivacy": false,
+    "price": "$36.50"
+  },
+  ".bet": {
+    "registarName": "Espace 2001",
+    "registarUrl": "/go/espace2001/bet",
+    "whoisPrivacy": true,
+    "price": "$12.76"
+  },
+  ".hn": {
+    "registarName": "Espace 2001",
+    "registarUrl": "/go/espace2001/hn",
+    "whoisPrivacy": true,
+    "price": "$67.12"
+  },
+  ".holdings": {
+    "registarName": "AlpNames",
+    "registarUrl": "/go/alpnames/holdings",
+    "whoisPrivacy": true,
+    "price": "$34.99"
+  },
+  ".cw": {
+    "registarName": "Gandi.net",
+    "registarUrl": "/go/gandi/cw",
+    "whoisPrivacy": false,
+    "price": "$197.40"
+  },
+  ".mc": {
+    "registarName": "Netim",
+    "registarUrl": "/go/netim/mc",
+    "whoisPrivacy": false,
+    "price": "$41.00"
+  },
+  ".mg": {
+    "registarName": "Netim",
+    "registarUrl": "/go/netim/mg",
+    "whoisPrivacy": false,
+    "price": "$111.00"
+  },
+  ".fishing": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/fishing",
+    "whoisPrivacy": true,
+    "price": "$19.99"
+  },
+  ".tm": {
+    "registarName": "Marcaria.com",
+    "registarUrl": "/go/marcaria/tm",
+    "whoisPrivacy": true,
+    "price": "$107.00"
+  },
+  ".graphics": {
+    "registarName": "Espace 2001",
+    "registarUrl": "/go/espace2001/graphics",
+    "whoisPrivacy": true,
+    "price": "$14.75"
+  },
+  ".ist": {
+    "registarName": "Espace 2001",
+    "registarUrl": "/go/espace2001/ist",
+    "whoisPrivacy": true,
+    "price": "$14.75"
+  },
+  ".industries": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/industries",
+    "whoisPrivacy": true,
+    "price": "$19.99"
+  },
+  ".дети": {
+    "registarName": "101domain",
+    "registarUrl": "/go/101domain/дети",
+    "whoisPrivacy": false,
+    "price": "$29.99"
+  },
+  ".fo": {
+    "registarName": "Espace 2001",
+    "registarUrl": "/go/espace2001/fo",
+    "whoisPrivacy": false,
+    "price": "$183.60"
+  },
+  ".hiphop": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/hiphop",
+    "whoisPrivacy": true,
+    "price": "$14.99"
+  },
+  ".kz": {
+    "registarName": "Regtons",
+    "registarUrl": "/go/regtons/kz",
+    "whoisPrivacy": false,
+    "price": "$24.37"
+  },
+  ".tax": {
+    "registarName": "AlpNames",
+    "registarUrl": "/go/alpnames/tax",
+    "whoisPrivacy": true,
+    "price": "$34.99"
+  },
+  ".institute": {
+    "registarName": "Espace 2001",
+    "registarUrl": "/go/espace2001/institute",
+    "whoisPrivacy": true,
+    "price": "$14.75"
+  },
+  ".partners": {
+    "registarName": "AlpNames",
+    "registarUrl": "/go/alpnames/partners",
+    "whoisPrivacy": true,
+    "price": "$34.99"
+  },
+  ".rest": {
+    "registarName": "AlpNames",
+    "registarUrl": "/go/alpnames/rest",
+    "whoisPrivacy": true,
+    "price": "$26.99"
+  },
+  ".christmas": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/christmas",
+    "whoisPrivacy": true,
+    "price": "$19.99"
+  },
+  ".enterprises": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/enterprises",
+    "whoisPrivacy": true,
+    "price": "$19.99"
+  },
+  ".forsale": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/forsale",
+    "whoisPrivacy": true,
+    "price": "$19.99"
+  },
+  ".భారత్": {
+    "registarName": "Dynadot",
+    "registarUrl": "/go/dynadot/భారత్",
+    "whoisPrivacy": false,
+    "price": "$10.99"
+  },
+  ".rw": {
+    "registarName": "Netim",
+    "registarUrl": "/go/netim/rw",
+    "whoisPrivacy": true,
+    "price": "$251.50"
+  },
+  ".fans": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/fans",
+    "whoisPrivacy": true,
+    "price": "$49.99"
+  },
+  ".lighting": {
+    "registarName": "Espace 2001",
+    "registarUrl": "/go/espace2001/lighting",
+    "whoisPrivacy": true,
+    "price": "$14.75"
+  },
+  ".parts": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/parts",
+    "whoisPrivacy": true,
+    "price": "$19.99"
+  },
+  ".jo": {
+    "registarName": "Marcaria.com",
+    "registarUrl": "/go/marcaria/jo",
+    "whoisPrivacy": false,
+    "price": "$293.00"
+  },
+  ".paris": {
+    "registarName": "Espace 2001",
+    "registarUrl": "/go/espace2001/paris",
+    "whoisPrivacy": true,
+    "price": "$36.66"
+  },
+  ".py": {
+    "registarName": "Gandi.net",
+    "registarUrl": "/go/gandi/py",
+    "whoisPrivacy": false,
+    "price": "$210.00"
+  },
+  ".lease": {
+    "registarName": "AlpNames",
+    "registarUrl": "/go/alpnames/lease",
+    "whoisPrivacy": true,
+    "price": "$34.99"
+  },
+  ".melbourne": {
+    "registarName": "Regtons",
+    "registarUrl": "/go/regtons/melbourne",
+    "whoisPrivacy": true,
+    "price": "$57.87"
+  },
+  ".sl": {
+    "registarName": "Netim",
+    "registarUrl": "/go/netim/sl",
+    "whoisPrivacy": false,
+    "price": "$70.50"
+  },
+  ".我爱你": {
+    "registarName": "101domain",
+    "registarUrl": "/go/101domain/我爱你",
+    "whoisPrivacy": true,
+    "price": "$19.95"
+  },
+  ".degree": {
+    "registarName": "AlpNames",
+    "registarUrl": "/go/alpnames/degree",
+    "whoisPrivacy": true,
+    "price": "$32.29"
+  },
+  ".在线": {
+    "registarName": "AmenWorld",
+    "registarUrl": "/go/amenworld/在线",
+    "whoisPrivacy": true,
+    "price": "$32.26"
+  },
+  ".tn": {
+    "registarName": "Netim",
+    "registarUrl": "/go/netim/tn",
+    "whoisPrivacy": false,
+    "price": "$27.50"
+  },
+  ".vacations": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/vacations",
+    "whoisPrivacy": true,
+    "price": "$19.99"
+  },
+  ".nf": {
+    "registarName": "Espace 2001",
+    "registarUrl": "/go/espace2001/nf",
+    "whoisPrivacy": false,
+    "price": "$393.95"
+  },
+  ".construction": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/construction",
+    "whoisPrivacy": true,
+    "price": "$19.99"
+  },
+  ".football": {
+    "registarName": "Espace 2001",
+    "registarUrl": "/go/espace2001/football",
+    "whoisPrivacy": true,
+    "price": "$14.75"
+  },
+  ".bargains": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/bargains",
+    "whoisPrivacy": true,
+    "price": "$19.99"
+  },
+  ".eus": {
+    "registarName": "101domain",
+    "registarUrl": "/go/101domain/eus",
+    "whoisPrivacy": true,
+    "price": "$19.99"
+  },
+  ".schule": {
+    "registarName": "Espace 2001",
+    "registarUrl": "/go/espace2001/schule",
+    "whoisPrivacy": true,
+    "price": "$14.75"
+  },
+  ".recipes": {
+    "registarName": "AlpNames",
+    "registarUrl": "/go/alpnames/recipes",
+    "whoisPrivacy": true,
+    "price": "$34.99"
+  },
+  ".tattoo": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/tattoo",
+    "whoisPrivacy": true,
+    "price": "$19.99"
+  },
+  ".cymru": {
+    "registarName": "Namecheap",
+    "registarUrl": "/go/namecheap/cymru",
+    "whoisPrivacy": true,
+    "price": "$12.88"
+  },
+  ".discount": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/discount",
+    "whoisPrivacy": true,
+    "price": "$19.99"
+  },
+  ".financial": {
+    "registarName": "AlpNames",
+    "registarUrl": "/go/alpnames/financial",
+    "whoisPrivacy": true,
+    "price": "$34.99"
+  },
+  ".wales": {
+    "registarName": "Namecheap",
+    "registarUrl": "/go/namecheap/wales",
+    "whoisPrivacy": true,
+    "price": "$12.88"
+  },
+  ".amsterdam": {
+    "registarName": "AmenWorld",
+    "registarUrl": "/go/amenworld/amsterdam",
+    "whoisPrivacy": true,
+    "price": "$37.43"
+  },
+  ".coop": {
+    "registarName": "Gandi.net",
+    "registarUrl": "/go/gandi/coop",
+    "whoisPrivacy": false,
+    "price": "$78.00"
+  },
+  ".kaufen": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/kaufen",
+    "whoisPrivacy": true,
+    "price": "$19.99"
+  },
+  ".soy": {
+    "registarName": "Google Domains",
+    "registarUrl": "/go/googledomains/soy",
+    "whoisPrivacy": true,
+    "price": "$20.00"
+  },
+  ".ong": {
+    "registarName": "AmenWorld",
+    "registarUrl": "/go/amenworld/ong",
+    "whoisPrivacy": true,
+    "price": "$37.43"
+  },
+  ".cleaning": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/cleaning",
+    "whoisPrivacy": true,
+    "price": "$19.99"
+  },
+  ".cruises": {
+    "registarName": "AlpNames",
+    "registarUrl": "/go/alpnames/cruises",
+    "whoisPrivacy": true,
+    "price": "$34.99"
+  },
+  ".cy": {
+    "registarName": "Gandi.net",
+    "registarUrl": "/go/gandi/cy",
+    "whoisPrivacy": false,
+    "price": "$264.00"
+  },
+  ".limited": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/limited",
+    "whoisPrivacy": true,
+    "price": "$19.99"
+  },
+  ".ltda": {
+    "registarName": "Espace 2001",
+    "registarUrl": "/go/espace2001/ltda",
+    "whoisPrivacy": true,
+    "price": "$36.40"
+  },
+  ".memorial": {
+    "registarName": "AlpNames",
+    "registarUrl": "/go/alpnames/memorial",
+    "whoisPrivacy": true,
+    "price": "$34.99"
+  },
+  ".vet": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/vet",
+    "whoisPrivacy": true,
+    "price": "$19.99"
+  },
+  ".voting": {
+    "registarName": "Espace 2001",
+    "registarUrl": "/go/espace2001/voting",
+    "whoisPrivacy": true,
+    "price": "$54.15"
+  },
+  ".feedbackTLDLISTTLDLIST": {
+    "registarName": "NameSilo",
+    "registarUrl": "/go/namesilo/feedback",
+    "whoisPrivacy": true,
+    "price": "$22.99"
+  },
+  ".republican": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/republican",
+    "whoisPrivacy": true,
+    "price": "$19.99"
+  },
+  ".tz": {
+    "registarName": "Gandi.net",
+    "registarUrl": "/go/gandi/tz",
+    "whoisPrivacy": false,
+    "price": "$169.00"
+  },
+  ".bj": {
+    "registarName": "Netim",
+    "registarUrl": "/go/netim/bj",
+    "whoisPrivacy": false,
+    "price": "$70.50"
+  },
+  ".exposed": {
+    "registarName": "Espace 2001",
+    "registarUrl": "/go/espace2001/exposed",
+    "whoisPrivacy": true,
+    "price": "$14.75"
+  },
+  ".finance": {
+    "registarName": "AlpNames",
+    "registarUrl": "/go/alpnames/finance",
+    "whoisPrivacy": true,
+    "price": "$34.99"
+  },
+  ".juegos": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/juegos",
+    "whoisPrivacy": true,
+    "price": "$9.99"
+  },
+  ".ভারত": {
+    "registarName": "Dynadot",
+    "registarUrl": "/go/dynadot/ভারত",
+    "whoisPrivacy": false,
+    "price": "$10.99"
+  },
+  ".glass": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/glass",
+    "whoisPrivacy": true,
+    "price": "$19.99"
+  },
+  ".plumbing": {
+    "registarName": "Espace 2001",
+    "registarUrl": "/go/espace2001/plumbing",
+    "whoisPrivacy": true,
+    "price": "$21.93"
+  },
+  ".tienda": {
+    "registarName": "AlpNames",
+    "registarUrl": "/go/alpnames/tienda",
+    "whoisPrivacy": true,
+    "price": "$34.99"
+  },
+  ".ls": {
+    "registarName": "Gandi.net",
+    "registarUrl": "/go/gandi/ls",
+    "whoisPrivacy": false,
+    "price": "$325.00"
+  },
+  ".kiwi": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/kiwi",
+    "whoisPrivacy": true,
+    "price": "$19.99"
+  },
+  ".tires": {
+    "registarName": "Porkbun",
+    "registarUrl": "/go/porkbun/tires",
+    "whoisPrivacy": true,
+    "price": "$69.57"
+  },
+  ".公司": {
+    "registarName": "101domain",
+    "registarUrl": "/go/101domain/公司",
+    "whoisPrivacy": false,
+    "price": "$39.95"
+  },
+  ".movie": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/movie",
+    "whoisPrivacy": true,
+    "price": "$199.99"
+  },
+  ".abogado": {
+    "registarName": "Minds + Machines",
+    "registarUrl": "/go/mindsandmachines/abogado",
+    "whoisPrivacy": false,
+    "price": "$160.00"
+  },
+  ".dm": {
+    "registarName": "Regtons",
+    "registarUrl": "/go/regtons/dm",
+    "whoisPrivacy": true,
+    "price": "$150.00"
+  },
+  ".nc": {
+    "registarName": "Espace 2001",
+    "registarUrl": "/go/espace2001/nc",
+    "whoisPrivacy": false,
+    "price": "$92.61"
+  },
+  ".supply": {
+    "registarName": "Espace 2001",
+    "registarUrl": "/go/espace2001/supply",
+    "whoisPrivacy": true,
+    "price": "$14.75"
+  },
+  ".condos": {
+    "registarName": "AlpNames",
+    "registarUrl": "/go/alpnames/condos",
+    "whoisPrivacy": true,
+    "price": "$34.99"
+  },
+  ".bingoTLDLIST": {
+    "registarName": "AlpNames",
+    "registarUrl": "/go/alpnames/bingo",
+    "whoisPrivacy": true,
+    "price": "$34.99"
+  },
+  ".florist": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/florist",
+    "whoisPrivacy": true,
+    "price": "$19.99"
+  },
+  ".gp": {
+    "registarName": "Netim",
+    "registarUrl": "/go/netim/gp",
+    "whoisPrivacy": false,
+    "price": "$93.00"
+  },
+  ".sb": {
+    "registarName": "Gandi.net",
+    "registarUrl": "/go/gandi/sb",
+    "whoisPrivacy": false,
+    "price": "$61.60"
+  },
+  ".mm": {
+    "registarName": "Gandi.net",
+    "registarUrl": "/go/gandi/mm",
+    "whoisPrivacy": false,
+    "price": "$256.80"
+  },
+  ".mr": {
+    "registarName": "Marcaria.com",
+    "registarUrl": "/go/marcaria/mr",
+    "whoisPrivacy": false,
+    "price": "$98.00"
+  },
+  ".nr": {
+    "registarName": "Gandi.net",
+    "registarUrl": "/go/gandi/nr",
+    "whoisPrivacy": false,
+    "price": "$650.00"
+  },
+  ".creditcard": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/creditcard",
+    "whoisPrivacy": true,
+    "price": "$99.99"
+  },
+  ".بازار": {
+    "registarName": "101domain",
+    "registarUrl": "/go/101domain/بازار",
+    "whoisPrivacy": true,
+    "price": "$24.99"
+  },
+  ".hamburg": {
+    "registarName": "Espace 2001",
+    "registarUrl": "/go/espace2001/hamburg",
+    "whoisPrivacy": true,
+    "price": "$39.39"
+  },
+  ".pharmacy": {
+    "registarName": "Marcaria.com",
+    "registarUrl": "/go/marcaria/pharmacy",
+    "whoisPrivacy": false,
+    "price": "$1,048.00"
+  },
+  ".中文网": {
+    "registarName": "AmenWorld",
+    "registarUrl": "/go/amenworld/中文网",
+    "whoisPrivacy": true,
+    "price": "$32.26"
+  },
+  ".dental": {
+    "registarName": "AlpNames",
+    "registarUrl": "/go/alpnames/dental",
+    "whoisPrivacy": true,
+    "price": "$34.99"
+  },
+  ".reisen": {
+    "registarName": "Espace 2001",
+    "registarUrl": "/go/espace2001/reisen",
+    "whoisPrivacy": true,
+    "price": "$14.75"
+  },
+  ".rodeo": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/rodeo",
+    "whoisPrivacy": true,
+    "price": "$19.99"
+  },
+  ".car": {
+    "registarName": "Name.com",
+    "registarUrl": "/go/name.com/car",
+    "whoisPrivacy": true,
+    "price": "$2,099.00"
+  },
+  ".career": {
+    "registarName": "BigRock",
+    "registarUrl": "/go/bigrock/career",
+    "whoisPrivacy": true,
+    "price": "$41.99"
+  },
+  ".eg": {
+    "registarName": "Marcaria.com",
+    "registarUrl": "/go/marcaria/eg",
+    "whoisPrivacy": false,
+    "price": "$280.00"
+  },
+  ".maison": {
+    "registarName": "Gandi.net",
+    "registarUrl": "/go/gandi/maison",
+    "whoisPrivacy": true,
+    "price": "$10.00"
+  },
+  ".sydney": {
+    "registarName": "Hover",
+    "registarUrl": "/go/hover/sydney",
+    "whoisPrivacy": true,
+    "price": "$52.99"
+  },
+  ".uz": {
+    "registarName": "Regtons",
+    "registarUrl": "/go/regtons/uz",
+    "whoisPrivacy": false,
+    "price": "$43.50"
+  },
+  ".bayern": {
+    "registarName": "Marcaria.com",
+    "registarUrl": "/go/marcaria/bayern",
+    "whoisPrivacy": true,
+    "price": "$31.00"
+  },
+  ".contractors": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/contractors",
+    "whoisPrivacy": true,
+    "price": "$19.99"
+  },
+  ".mortgage": {
+    "registarName": "Regtons",
+    "registarUrl": "/go/regtons/mortgage",
+    "whoisPrivacy": true,
+    "price": "$29.00"
+  },
+  ".bm": {
+    "registarName": "Marcaria.com",
+    "registarUrl": "/go/marcaria/bm",
+    "whoisPrivacy": false,
+    "price": "$118.00"
+  },
+  ".网络": {
+    "registarName": "101domain",
+    "registarUrl": "/go/101domain/网络",
+    "whoisPrivacy": false,
+    "price": "$39.95"
+  },
+  ".democrat": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/democrat",
+    "whoisPrivacy": true,
+    "price": "$19.99"
+  },
+  ".limo": {
+    "registarName": "AlpNames",
+    "registarUrl": "/go/alpnames/limo",
+    "whoisPrivacy": true,
+    "price": "$34.99"
+  },
+  ".supplies": {
+    "registarName": "Espace 2001",
+    "registarUrl": "/go/espace2001/supplies",
+    "whoisPrivacy": true,
+    "price": "$14.75"
+  },
+  ".gal": {
+    "registarName": "Espace 2001",
+    "registarUrl": "/go/espace2001/gal",
+    "whoisPrivacy": true,
+    "price": "$26.62"
+  },
+  ".gives": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/gives",
+    "whoisPrivacy": true,
+    "price": "$19.99"
+  },
+  ".ug": {
+    "registarName": "Netim",
+    "registarUrl": "/go/netim/ug",
+    "whoisPrivacy": false,
+    "price": "$36.50"
+  },
+  ".hm": {
+    "registarName": "Netim",
+    "registarUrl": "/go/netim/hm",
+    "whoisPrivacy": false,
+    "price": "$48.00"
+  },
+  ".auto": {
+    "registarName": "Name.com",
+    "registarUrl": "/go/name.com/auto",
+    "whoisPrivacy": true,
+    "price": "$2,099.00"
+  },
+  ".claims": {
+    "registarName": "AlpNames",
+    "registarUrl": "/go/alpnames/claims",
+    "whoisPrivacy": true,
+    "price": "$34.99"
+  },
+  ".jetzt": {
+    "registarName": "Espace 2001",
+    "registarUrl": "/go/espace2001/jetzt",
+    "whoisPrivacy": true,
+    "price": "$14.75"
+  },
+  ".sn": {
+    "registarName": "Netim",
+    "registarUrl": "/go/netim/sn",
+    "whoisPrivacy": false,
+    "price": "$93.00"
+  },
+  ".бел": {
+    "registarName": "101domain",
+    "registarUrl": "/go/101domain/бел",
+    "whoisPrivacy": false,
+    "price": "$29.95"
+  },
+  ".bt": {
+    "registarName": "Espace 2001",
+    "registarUrl": "/go/espace2001/bt",
+    "whoisPrivacy": false,
+    "price": "$176.72"
+  },
+  ".gi": {
+    "registarName": "Marcaria.com",
+    "registarUrl": "/go/marcaria/gi",
+    "whoisPrivacy": false,
+    "price": "$141.00"
+  },
+  ".gt": {
+    "registarName": "Marcaria.com",
+    "registarUrl": "/go/marcaria/gt",
+    "whoisPrivacy": false,
+    "price": "$82.00"
+  },
+  ".group": {
+    "registarName": "AlpNames",
+    "registarUrl": "/go/alpnames/group",
+    "whoisPrivacy": true,
+    "price": "$14.89"
+  },
+  ".gf": {
+    "registarName": "Netim",
+    "registarUrl": "/go/netim/gf",
+    "whoisPrivacy": false,
+    "price": "$104.50"
+  },
+  ".vi": {
+    "registarName": "101domain",
+    "registarUrl": "/go/101domain/vi",
+    "whoisPrivacy": false,
+    "price": "$350.00"
+  },
+  ".catering": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/catering",
+    "whoisPrivacy": true,
+    "price": "$19.99"
+  },
+  ".irish": {
+    "registarName": "Espace 2001",
+    "registarUrl": "/go/espace2001/irish",
+    "whoisPrivacy": true,
+    "price": "$29.61"
+  },
+  ".mv": {
+    "registarName": "Espace 2001",
+    "registarUrl": "/go/espace2001/mv",
+    "whoisPrivacy": false,
+    "price": "$222.40"
+  },
+  ".ni": {
+    "registarName": "Espace 2001",
+    "registarUrl": "/go/espace2001/ni",
+    "whoisPrivacy": false,
+    "price": "$177.06"
+  },
+  ".sy": {
+    "registarName": "Gandi.net",
+    "registarUrl": "/go/gandi/sy",
+    "whoisPrivacy": false,
+    "price": "$715.00"
+  },
+  ".онлайн": {
+    "registarName": "Regtons",
+    "registarUrl": "/go/regtons/онлайн",
+    "whoisPrivacy": true,
+    "price": "$32.82"
+  },
+  ".swiss": {
+    "registarName": "Netim",
+    "registarUrl": "/go/netim/swiss",
+    "whoisPrivacy": false,
+    "price": "$111.00"
+  },
+  ".mba": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/mba",
+    "whoisPrivacy": true,
+    "price": "$19.99"
+  },
+  ".museum": {
+    "registarName": "Dotster",
+    "registarUrl": "/go/dotster/museum",
+    "whoisPrivacy": false,
+    "price": "$100.00"
+  },
+  ".qpon": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/qpon",
+    "whoisPrivacy": true,
+    "price": "$9.99"
+  },
+  ".sr": {
+    "registarName": "Netim",
+    "registarUrl": "/go/netim/sr",
+    "whoisPrivacy": false,
+    "price": "$54.50"
+  },
+  ".immobilien": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/immobilien",
+    "whoisPrivacy": true,
+    "price": "$19.99"
+  },
+  ".jm": {
+    "registarName": "Gandi.net",
+    "registarUrl": "/go/gandi/jm",
+    "whoisPrivacy": false,
+    "price": "$176.00"
+  },
+  ".tennisTLDLIST": {
+    "registarName": "AlpNames",
+    "registarUrl": "/go/alpnames/tennis",
+    "whoisPrivacy": true,
+    "price": "$34.99"
+  },
+  ".jewelry": {
+    "registarName": "Directnic",
+    "registarUrl": "/go/directnic/jewelry",
+    "whoisPrivacy": true,
+    "price": "$29.99"
+  },
+  ".cars": {
+    "registarName": "Name.com",
+    "registarUrl": "/go/name.com/cars",
+    "whoisPrivacy": true,
+    "price": "$2,099.00"
+  },
+  ".vu": {
+    "registarName": "Netim",
+    "registarUrl": "/go/netim/vu",
+    "whoisPrivacy": false,
+    "price": "$63.50"
+  },
+  ".台湾": {
+    "registarName": "101domain",
+    "registarUrl": "/go/101domain/台湾",
+    "whoisPrivacy": false,
+    "price": "$39.00"
+  },
+  ".gent": {
+    "registarName": "Netim",
+    "registarUrl": "/go/netim/gent",
+    "whoisPrivacy": true,
+    "price": "$27.50"
+  },
+  ".香港": {
+    "registarName": "Gandi.net",
+    "registarUrl": "/go/gandi/香港",
+    "whoisPrivacy": false,
+    "price": "$39.00"
+  },
+  ".voto": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/voto",
+    "whoisPrivacy": true,
+    "price": "$49.99"
+  },
+  ".한국": {
+    "registarName": "OnlyDomains",
+    "registarUrl": "/go/onlydomains/한국",
+    "whoisPrivacy": false,
+    "price": "$49.99"
+  },
+  ".kn": {
+    "registarName": "OnlyDomains",
+    "registarUrl": "/go/onlydomains/kn",
+    "whoisPrivacy": false,
+    "price": "$150.00"
+  },
+  ".pn": {
+    "registarName": "Espace 2001",
+    "registarUrl": "/go/espace2001/pn",
+    "whoisPrivacy": false,
+    "price": "$192.58"
+  },
+  ".taipei": {
+    "registarName": "OnlyDomains",
+    "registarUrl": "/go/onlydomains/taipei",
+    "whoisPrivacy": true,
+    "price": "$19.99"
+  },
+  ".kw": {
+    "registarName": "Gandi.net",
+    "registarUrl": "/go/gandi/kw",
+    "whoisPrivacy": false,
+    "price": "$282.00"
+  },
+  ".pf": {
+    "registarName": "Espace 2001",
+    "registarUrl": "/go/espace2001/pf",
+    "whoisPrivacy": false,
+    "price": "$245.84"
+  },
+  ".study": {
+    "registarName": "Espace 2001",
+    "registarUrl": "/go/espace2001/study",
+    "whoisPrivacy": true,
+    "price": "$24.53"
+  },
+  ".tickets": {
+    "registarName": "Netim",
+    "registarUrl": "/go/netim/tickets",
+    "whoisPrivacy": true,
+    "price": "$377.00"
+  },
+  ".taxi": {
+    "registarName": "AlpNames",
+    "registarUrl": "/go/alpnames/taxi",
+    "whoisPrivacy": true,
+    "price": "$34.99"
+  },
+  ".pet": {
+    "registarName": "Espace 2001",
+    "registarUrl": "/go/espace2001/pet",
+    "whoisPrivacy": true,
+    "price": "$12.76"
+  },
+  ".コム": {
+    "registarName": "Hexonet",
+    "registarUrl": "/go/hexonet/コム",
+    "whoisPrivacy": true,
+    "price": "$12.80"
+  },
+  ".موقع": {
+    "registarName": "101domain",
+    "registarUrl": "/go/101domain/موقع",
+    "whoisPrivacy": true,
+    "price": "$48.00"
+  },
+  ".中国": {
+    "registarName": "Dynadot",
+    "registarUrl": "/go/dynadot/中国",
+    "whoisPrivacy": false,
+    "price": "$39.99"
+  },
+  ".mz": {
+    "registarName": "Gandi.net",
+    "registarUrl": "/go/gandi/mz",
+    "whoisPrivacy": false,
+    "price": "$240.00"
+  },
+  ".hiv": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/hiv",
+    "whoisPrivacy": true,
+    "price": "$179.99"
+  },
+  ".moscow": {
+    "registarName": "Regtons",
+    "registarUrl": "/go/regtons/moscow",
+    "whoisPrivacy": true,
+    "price": "$7.56"
+  },
+  ".gh": {
+    "registarName": "Marcaria.com",
+    "registarUrl": "/go/marcaria/gh",
+    "whoisPrivacy": false,
+    "price": "$293.00"
+  },
+  ".koeln": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/koeln",
+    "whoisPrivacy": true,
+    "price": "$6.99"
+  },
+  ".cfd": {
+    "registarName": "Hexonet",
+    "registarUrl": "/go/hexonet/cfd",
+    "whoisPrivacy": false,
+    "price": "$16,800.00"
+  },
+  ".trading": {
+    "registarName": "AmenWorld",
+    "registarUrl": "/go/amenworld/trading",
+    "whoisPrivacy": true,
+    "price": "$63.28"
+  },
+  ".whoswho": {
+    "registarName": "Espace 2001",
+    "registarUrl": "/go/espace2001/whoswho",
+    "whoisPrivacy": false,
+    "price": "$97.73"
+  },
+  ".wien": {
+    "registarName": "Crazy Domains",
+    "registarUrl": "/go/crazydomains/wien",
+    "whoisPrivacy": true,
+    "price": "$25.95"
+  },
+  ".cg": {
+    "registarName": "Netim",
+    "registarUrl": "/go/netim/cg",
+    "whoisPrivacy": false,
+    "price": "$285.50"
+  },
+  ".td": {
+    "registarName": "Espace 2001",
+    "registarUrl": "/go/espace2001/td",
+    "whoisPrivacy": false,
+    "price": "$295.21"
+  },
+  ".gop": {
+    "registarName": "101domain",
+    "registarUrl": "/go/101domain/gop",
+    "whoisPrivacy": true,
+    "price": "$20.16"
+  },
+  ".lat": {
+    "registarName": "Marcaria.com",
+    "registarUrl": "/go/marcaria/lat",
+    "whoisPrivacy": true,
+    "price": "$29.00"
+  },
+  ".capetown": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/capetown",
+    "whoisPrivacy": true,
+    "price": "$9.99"
+  },
+  ".pg": {
+    "registarName": "Gandi.net",
+    "registarUrl": "/go/gandi/pg",
+    "whoisPrivacy": false,
+    "price": "$260.00"
+  },
+  ".okinawa": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/okinawa",
+    "whoisPrivacy": true,
+    "price": "$9.99"
+  },
+  ".navy": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/navy",
+    "whoisPrivacy": true,
+    "price": "$19.99"
+  },
+  ".joburg": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/joburg",
+    "whoisPrivacy": true,
+    "price": "$9.99"
+  },
+  ".mq": {
+    "registarName": "Netim",
+    "registarUrl": "/go/netim/mq",
+    "whoisPrivacy": false,
+    "price": "$104.50"
+  },
+  ".alsace": {
+    "registarName": "101domain",
+    "registarUrl": "/go/101domain/alsace",
+    "whoisPrivacy": true,
+    "price": "$29.00"
+  },
+  ".krd": {
+    "registarName": "Regtons",
+    "registarUrl": "/go/regtons/krd",
+    "whoisPrivacy": true,
+    "price": "$75.00"
+  },
+  ".tirol": {
+    "registarName": "Crazy Domains",
+    "registarUrl": "/go/crazydomains/tirol",
+    "whoisPrivacy": true,
+    "price": "$25.95"
+  },
+  ".yokohama": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/yokohama",
+    "whoisPrivacy": true,
+    "price": "$9.99"
+  },
+  ".meet": {
+    "registarName": "Espace 2001",
+    "registarUrl": "/go/espace2001/meet",
+    "whoisPrivacy": false,
+    "price": "$39.49"
+  },
+  ".uy": {
+    "registarName": "Marcaria.com",
+    "registarUrl": "/go/marcaria/uy",
+    "whoisPrivacy": false,
+    "price": "$62.00"
+  },
+  ".ලංකා": {
+    "registarName": "101domain",
+    "registarUrl": "/go/101domain/ලංකා",
+    "whoisPrivacy": false,
+    "price": "$59.00"
+  },
+  ".сайт": {
+    "registarName": "Regtons",
+    "registarUrl": "/go/regtons/сайт",
+    "whoisPrivacy": true,
+    "price": "$32.82"
+  },
+  ".kg": {
+    "registarName": "Marcaria.com",
+    "registarUrl": "/go/marcaria/kg",
+    "whoisPrivacy": false,
+    "price": "$124.00"
+  },
+  ".ਭਾਰਤ": {
+    "registarName": "Dynadot",
+    "registarUrl": "/go/dynadot/ਭਾਰਤ",
+    "whoisPrivacy": false,
+    "price": "$10.99"
+  },
+  ".tg": {
+    "registarName": "Netim",
+    "registarUrl": "/go/netim/tg",
+    "whoisPrivacy": false,
+    "price": "$93.00"
+  },
+  ".bzh": {
+    "registarName": "Gandi.net",
+    "registarUrl": "/go/gandi/bzh",
+    "whoisPrivacy": true,
+    "price": "$19.00"
+  },
+  ".gm": {
+    "registarName": "Marcaria.com",
+    "registarUrl": "/go/marcaria/gm",
+    "whoisPrivacy": false,
+    "price": "$76.00"
+  },
+  ".markets": {
+    "registarName": "AmenWorld",
+    "registarUrl": "/go/amenworld/markets",
+    "whoisPrivacy": true,
+    "price": "$51.93"
+  },
+  ".osaka": {
+    "registarName": "Hexonet",
+    "registarUrl": "/go/hexonet/osaka",
+    "whoisPrivacy": true,
+    "price": "$15.90"
+  },
+  ".sd": {
+    "registarName": "Regtons",
+    "registarUrl": "/go/regtons/sd",
+    "whoisPrivacy": false,
+    "price": "$300.00"
+  },
+  ".集团": {
+    "registarName": "101domain",
+    "registarUrl": "/go/101domain/集团",
+    "whoisPrivacy": true,
+    "price": "$789.00"
+  },
+  ".рус": {
+    "registarName": "101domain",
+    "registarUrl": "/go/101domain/рус",
+    "whoisPrivacy": false,
+    "price": "$12.99"
+  },
+  ".saarland": {
+    "registarName": "Espace 2001",
+    "registarUrl": "/go/espace2001/saarland",
+    "whoisPrivacy": true,
+    "price": "$19.74"
+  },
+  ".cologne": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/cologne",
+    "whoisPrivacy": true,
+    "price": "$6.99"
+  },
+  ".بھارت": {
+    "registarName": "Dynadot",
+    "registarUrl": "/go/dynadot/بھارت",
+    "whoisPrivacy": false,
+    "price": "$10.99"
+  },
+  ".商城": {
+    "registarName": "Gandi.net",
+    "registarUrl": "/go/gandi/商城",
+    "whoisPrivacy": true,
+    "price": "$288.19"
+  },
+  ".courses": {
+    "registarName": "Espace 2001",
+    "registarUrl": "/go/espace2001/courses",
+    "whoisPrivacy": true,
+    "price": "$29.52"
+  },
+  ".ryukyu": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/ryukyu",
+    "whoisPrivacy": true,
+    "price": "$9.99"
+  },
+  ".versicherung": {
+    "registarName": "101domain",
+    "registarUrl": "/go/101domain/versicherung",
+    "whoisPrivacy": true,
+    "price": "$14.99"
+  },
+  ".商标": {
+    "registarName": "Regtons",
+    "registarUrl": "/go/regtons/商标",
+    "whoisPrivacy": true,
+    "price": "$306.42"
+  },
+  ".tj": {
+    "registarName": "Marcaria.com",
+    "registarUrl": "/go/marcaria/tj",
+    "whoisPrivacy": false,
+    "price": "$48.00"
+  },
+  ".台灣": {
+    "registarName": "101domain",
+    "registarUrl": "/go/101domain/台灣",
+    "whoisPrivacy": false,
+    "price": "$39.00"
+  },
+  ".bn": {
+    "registarName": "Gandi.net",
+    "registarUrl": "/go/gandi/bn",
+    "whoisPrivacy": false,
+    "price": "$2,681.40"
+  },
+  ".kyoto": {
+    "registarName": "Regtons",
+    "registarUrl": "/go/regtons/kyoto",
+    "whoisPrivacy": false,
+    "price": "$72.15"
+  },
+  ".forex": {
+    "registarName": "Gandi.net",
+    "registarUrl": "/go/gandi/forex",
+    "whoisPrivacy": true,
+    "price": "$1,152.19"
+  },
+  ".barcelona": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/barcelona",
+    "whoisPrivacy": true,
+    "price": "$49.99"
+  },
+  ".gn": {
+    "registarName": "Gandi.net",
+    "registarUrl": "/go/gandi/gn",
+    "whoisPrivacy": false,
+    "price": "$169.00"
+  },
+  ".lb": {
+    "registarName": "Gandi.net",
+    "registarUrl": "/go/gandi/lb",
+    "whoisPrivacy": false,
+    "price": "$229.00"
+  },
+  ".fj": {
+    "registarName": "Gandi.net",
+    "registarUrl": "/go/gandi/fj",
+    "whoisPrivacy": false,
+    "price": "$390.00"
+  },
+  ".nagoya": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/nagoya",
+    "whoisPrivacy": true,
+    "price": "$9.99"
+  },
+  ".mt": {
+    "registarName": "Gandi.net",
+    "registarUrl": "/go/gandi/mt",
+    "whoisPrivacy": false,
+    "price": "$169.00"
+  },
+  ".broker": {
+    "registarName": "Espace 2001",
+    "registarUrl": "/go/espace2001/broker",
+    "whoisPrivacy": true,
+    "price": "$604.48"
+  },
+  ".theater": {
+    "registarName": "AlpNames",
+    "registarUrl": "/go/alpnames/theater",
+    "whoisPrivacy": true,
+    "price": "$34.99"
+  },
+  ".coupons": {
+    "registarName": "AlpNames",
+    "registarUrl": "/go/alpnames/coupons",
+    "whoisPrivacy": true,
+    "price": "$34.99"
+  },
+  ".frl": {
+    "registarName": "United Domains",
+    "registarUrl": "/go/uniteddomains/frl",
+    "whoisPrivacy": true,
+    "price": "$39.00"
+  },
+  ".physio": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/physio",
+    "whoisPrivacy": true,
+    "price": "$59.99"
+  },
+  ".中國": {
+    "registarName": "101domain",
+    "registarUrl": "/go/101domain/中國",
+    "whoisPrivacy": false,
+    "price": "$49.95"
+  },
+  ".ભારત": {
+    "registarName": "Dynadot",
+    "registarUrl": "/go/dynadot/ભારત",
+    "whoisPrivacy": false,
+    "price": "$10.99"
+  },
+  ".durban": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/durban",
+    "whoisPrivacy": true,
+    "price": "$9.99"
+  },
+  ".网店": {
+    "registarName": "Gandi.net",
+    "registarUrl": "/go/gandi/网店",
+    "whoisPrivacy": true,
+    "price": "$288.19"
+  },
+  ".இலங்கை": {
+    "registarName": "101domain",
+    "registarUrl": "/go/101domain/இலங்கை",
+    "whoisPrivacy": false,
+    "price": "$59.00"
+  },
+  ".np": {
+    "registarName": "Gandi.net",
+    "registarUrl": "/go/gandi/np",
+    "whoisPrivacy": false,
+    "price": "$195.00"
+  },
+  ".mw": {
+    "registarName": "Marcaria.com",
+    "registarUrl": "/go/marcaria/mw",
+    "whoisPrivacy": false,
+    "price": "$94.00"
+  },
+  ".reise": {
+    "registarName": "Namecheap",
+    "registarUrl": "/go/namecheap/reise",
+    "whoisPrivacy": true,
+    "price": "$72.88"
+  },
+  ".yachts": {
+    "registarName": "Marcaria.com",
+    "registarUrl": "/go/marcaria/yachts",
+    "whoisPrivacy": false,
+    "price": "$148.00"
+  },
+  ".健康": {
+    "registarName": "Gandi.net",
+    "registarUrl": "/go/gandi/健康",
+    "whoisPrivacy": true,
+    "price": "$2,016.19"
+  },
+  ".vin": {
+    "registarName": "AlpNames",
+    "registarUrl": "/go/alpnames/vin",
+    "whoisPrivacy": true,
+    "price": "$34.99"
+  },
+  ".சிங்கப்பூர்": {
+    "registarName": "101domain",
+    "registarUrl": "/go/101domain/சிங்கப்பூர்",
+    "whoisPrivacy": false,
+    "price": "$79.00"
+  },
+  ".հայ": {
+    "registarName": "101domain",
+    "registarUrl": "/go/101domain/հայ",
+    "whoisPrivacy": false,
+    "price": "$99.00"
+  },
+  ".nrw": {
+    "registarName": "Webnames.ca",
+    "registarUrl": "/go/webnames.ca/nrw",
+    "whoisPrivacy": true,
+    "price": "$31.99"
+  },
+  ".bible": {
+    "registarName": "Espace 2001",
+    "registarUrl": "/go/espace2001/bible",
+    "whoisPrivacy": true,
+    "price": "$137.23"
+  },
+  ".homes": {
+    "registarName": "Marcaria.com",
+    "registarUrl": "/go/marcaria/homes",
+    "whoisPrivacy": false,
+    "price": "$140.00"
+  },
+  ".vlaanderen": {
+    "registarName": "Espace 2001",
+    "registarUrl": "/go/espace2001/vlaanderen",
+    "whoisPrivacy": true,
+    "price": "$29.61"
+  },
+  ".السعودية": {
+    "registarName": "101domain",
+    "registarUrl": "/go/101domain/السعودية",
+    "whoisPrivacy": false,
+    "price": "$199.00"
+  },
+  ".срб": {
+    "registarName": "ISTanCo",
+    "registarUrl": "/go/istanco/срб",
+    "whoisPrivacy": false,
+    "price": "$12.34"
+  },
+  ".مصر": {
+    "registarName": "101domain",
+    "registarUrl": "/go/101domain/مصر",
+    "whoisPrivacy": false,
+    "price": "$129.00"
+  },
+  ".tatar": {
+    "registarName": "101domain",
+    "registarUrl": "/go/101domain/tatar",
+    "whoisPrivacy": false,
+    "price": "$23.99"
+  },
+  ".brussels": {
+    "registarName": "Espace 2001",
+    "registarUrl": "/go/espace2001/brussels",
+    "whoisPrivacy": true,
+    "price": "$29.61"
+  },
+  ".мкд": {
+    "registarName": "101domain",
+    "registarUrl": "/go/101domain/мкд",
+    "whoisPrivacy": false,
+    "price": "$59.00"
+  },
+  ".قطر": {
+    "registarName": "101domain",
+    "registarUrl": "/go/101domain/قطر",
+    "whoisPrivacy": false,
+    "price": "$45.00"
+  },
+  ".فلسطين": {
+    "registarName": "101domain",
+    "registarUrl": "/go/101domain/فلسطين",
+    "whoisPrivacy": false,
+    "price": "$90.00"
+  },
+  ".ruhr": {
+    "registarName": "Espace 2001",
+    "registarUrl": "/go/espace2001/ruhr",
+    "whoisPrivacy": true,
+    "price": "$29.61"
+  },
+  ".қаз": {
+    "registarName": "Regtons",
+    "registarUrl": "/go/regtons/қаз",
+    "whoisPrivacy": false,
+    "price": "$24.37"
+  },
+  ".مليسيا": {
+    "registarName": "101domain",
+    "registarUrl": "/go/101domain/مليسيا",
+    "whoisPrivacy": false,
+    "price": "$81.00"
+  },
+  ".امارات": {
+    "registarName": "Hexonet",
+    "registarUrl": "/go/hexonet/امارات",
+    "whoisPrivacy": false,
+    "price": "$43.41"
+  },
+  ".boats": {
+    "registarName": "Marcaria.com",
+    "registarUrl": "/go/marcaria/boats",
+    "whoisPrivacy": false,
+    "price": "$148.00"
+  },
+  ".hockey": {
+    "registarName": "AlpNames",
+    "registarUrl": "/go/alpnames/hockey",
+    "whoisPrivacy": true,
+    "price": "$34.99"
+  },
+  ".تونس": {
+    "registarName": "101domain",
+    "registarUrl": "/go/101domain/تونس",
+    "whoisPrivacy": false,
+    "price": "$39.00"
+  },
+  ".ไทย": {
+    "registarName": "101domain",
+    "registarUrl": "/go/101domain/ไทย",
+    "whoisPrivacy": false,
+    "price": "$77.00"
+  },
+  ".新加坡": {
+    "registarName": "101domain",
+    "registarUrl": "/go/101domain/新加坡",
+    "whoisPrivacy": false,
+    "price": "$79.00"
+  },
+  ".protection": {
+    "registarName": "Crazy Domains",
+    "registarUrl": "/go/crazydomains/protection",
+    "whoisPrivacy": true,
+    "price": "$1,900.95"
+  },
+  ".autos": {
+    "registarName": "101domain",
+    "registarUrl": "/go/101domain/autos",
+    "whoisPrivacy": false,
+    "price": "$799.00"
+  },
+  ".الاردن": {
+    "registarName": "101domain",
+    "registarUrl": "/go/101domain/الاردن",
+    "whoisPrivacy": false,
+    "price": "$299.00"
+  },
+  ".八卦": {
+    "registarName": "Gandi.net",
+    "registarUrl": "/go/gandi/八卦",
+    "whoisPrivacy": true,
+    "price": "$288.19"
+  },
+  ".信息": {
+    "registarName": "101domain",
+    "registarUrl": "/go/101domain/信息",
+    "whoisPrivacy": false,
+    "price": "$34.95"
+  },
+  ".reit": {
+    "registarName": "Directnic",
+    "registarUrl": "/go/directnic/reit",
+    "whoisPrivacy": true,
+    "price": "$800.00"
+  },
+  ".stream": {
+    "registarName": "101domain",
+    "registarUrl": "/go/101domain/stream",
+    "whoisPrivacy": true,
+    "price": "$1.32"
+  },
+  ".გე": {
+    "registarName": "101domain",
+    "registarUrl": "/go/101domain/გე",
+    "whoisPrivacy": false,
+    "price": "$78.00"
+  },
+  ".hoteles": {
+    "registarName": "101domain",
+    "registarUrl": "/go/101domain/hoteles",
+    "whoisPrivacy": false,
+    "price": "$65,000.00"
+  },
+  ".store": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/store",
+    "whoisPrivacy": true,
+    "price": "$9.99"
+  },
+  ".srl": {
+    "registarName": "Espace 2001",
+    "registarUrl": "/go/espace2001/srl",
+    "whoisPrivacy": true,
+    "price": "$29.71"
+  },
+  ".佛山": {
+    "registarName": "101domain",
+    "registarUrl": "/go/101domain/佛山",
+    "whoisPrivacy": false,
+    "price": "$24.99"
+  },
+  ".广东": {
+    "registarName": "101domain",
+    "registarUrl": "/go/101domain/广东",
+    "whoisPrivacy": false,
+    "price": "$24.99"
+  },
+  ".soccer": {
+    "registarName": "AlpNames",
+    "registarUrl": "/go/alpnames/soccer",
+    "whoisPrivacy": true,
+    "price": "$14.89"
+  },
+  ".corsica": {
+    "registarName": "Netim",
+    "registarUrl": "/go/netim/corsica",
+    "whoisPrivacy": true,
+    "price": "$41.00"
+  },
+  ".istanbul": {
+    "registarName": "Espace 2001",
+    "registarUrl": "/go/espace2001/istanbul",
+    "whoisPrivacy": true,
+    "price": "$19.74"
+  },
+  ".ltd": {
+    "registarName": "AlpNames",
+    "registarUrl": "/go/alpnames/ltd",
+    "whoisPrivacy": true,
+    "price": "$14.89"
+  },
+  ".theatre": {
+    "registarName": "Crazy Domains",
+    "registarUrl": "/go/crazydomains/theatre",
+    "whoisPrivacy": true,
+    "price": "$475.50"
+  },
+  ".insurance": {
+    "registarName": "101domain",
+    "registarUrl": "/go/101domain/insurance",
+    "whoisPrivacy": false,
+    "price": "$800.00"
+  },
+  ".salon": {
+    "registarName": "Directnic",
+    "registarUrl": "/go/directnic/salon",
+    "whoisPrivacy": true,
+    "price": "$15.99"
+  },
+  ".promo": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/promo",
+    "whoisPrivacy": true,
+    "price": "$14.99"
+  },
+  ".tube": {
+    "registarName": "1&1",
+    "registarUrl": "/go/1and1/tube",
+    "whoisPrivacy": true,
+    "price": "$24.99"
+  },
+  ".닷컴": {
+    "registarName": "Hexonet",
+    "registarUrl": "/go/hexonet/닷컴",
+    "whoisPrivacy": true,
+    "price": "$12.80"
+  },
+  ".닷넷": {
+    "registarName": "Hexonet",
+    "registarUrl": "/go/hexonet/닷넷",
+    "whoisPrivacy": true,
+    "price": "$12.80"
+  },
+  ".gmbh": {
+    "registarName": "AlpNames",
+    "registarUrl": "/go/alpnames/gmbh",
+    "whoisPrivacy": true,
+    "price": "$21.99"
+  }
+}

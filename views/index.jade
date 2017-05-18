@@ -1,0 +1,57 @@
+extends layout
+
+block head
+  script(src='//cdnjs.cloudflare.com/ajax/libs/jquery/3.0.0-beta1/jquery.js')
+  link(rel='stylesheet', href='//cdnjs.cloudflare.com/ajax/libs/materialize/0.97.6/css/materialize.min.css')
+  script(src='//cdnjs.cloudflare.com/ajax/libs/materialize/0.97.6/js/materialize.min.js')
+
+block content
+  .container
+    .row.center-align
+      .col.s12
+        .container
+          .row
+            form
+              .input-field.col.s12
+                input(placeholderid='domain', id='domain', type='text', class='validate')
+                label(for='domain') Enter a name you would like to find a domain for, eg: google
+          .row
+            #loader(hidden)
+              br
+              .preloader-wrapper.big.active
+                .spinner-layer.spinner-blue-only
+                  .circle-clipper.left
+                    .circle
+                  .gap-patch
+                    .circle
+                  .circle-clipper.right
+                    .circle
+            table#results(hidden)
+              thead
+                tr
+                  th Domain
+                  th Price
+                  th Whois Privacy
+                  th Registar
+                  th Whois
+              tbody
+            #whois.modal
+              .modal-content
+                h4 Whois for
+                  h4.for x.x
+                .container
+                  .content.left-align
+                #whoisLoader
+                  .preloader-wrapper.big.active
+                    .spinner-layer.spinner-blue-only
+                      .circle-clipper.left
+                        .circle
+                      .gap-patch
+                        .circle
+                      .circle-clipper.right
+                        .circle
+              .modal-footer
+                a.modal-action.modal-close.waves-effect.waves-green.btn-flat(href='#!') Close
+block foot
+  script(src='//cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/2.26.1/js/jquery.tablesorter.js')
+  script(src='/js/search.js')
