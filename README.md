@@ -9,6 +9,8 @@ Search:
   This is more efficent (and cheaper) then hammering whois servers.
   This works about 90% of the time to weed out taken domains. 
   The last step is to acutally do a whois lookup and make sure it's 100% not taken.
+  
+  Should move this to http://data.iana.org/TLD/tlds-alpha-by-domain.txt at some point.
 
   Domain prices and suggested sites are also listed in the search results.
   
